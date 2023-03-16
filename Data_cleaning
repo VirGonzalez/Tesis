@@ -1,0 +1,57 @@
+## %######################################################%##
+#                                                          #
+####                       SPACE                        ####
+#                                                          #
+## %######################################################%##
+db <- readr::read_csv(file.path(getwd(), "02_taxonomy_database.csv"))
+db = read.csv("D:/Proy.gbif/gbif/Arboles_exoticos/db.csv")
+
+db = check_taxonomy_final
+# 1) Flagging common spatial issues
+# This function identifies records with a coordinate precision below a specified number
+# of decimal places. For example, the precision of a coordinate with 1 decimal place is
+# 11.132 km at the equator, i.e., the scale of a large city.
+
+# The precision depends on the use of the data, for instance, in the
+# context of species distribution models a higher precision is needed if
+# you are using high resolution environmental variables
+
+check_space <-
+  bdc_coordinates_precision(
+    data = db,
+    lon = "decimalLongitude",
+    lat = "decimalLatitude",
+    ndec = 3 # number of decimals to be tested
+  )
+
+
+
+table(check_space$.rou) # 740 records have < 3 decimals
+
+check_space %>%
+  dplyr::filter(!.rou) %>%
+  dplyr::select(starts_with("decimal"))
+
+
+# 2) flag common spatial issues using functions of the package CoordinateCleaner.
+?clean_coordinates
+
+# the process of spatial cleaning is processed by species, therefor it is important
+# the database has a column with cleaned and updated species names
+# and is important define the taxonomic level desired to work (i.e. species or subspecies)
+check_space <-
+  CoordinateCleaner::clean_coordinates(
+    x = db,
+    lon = "decimalLongitude",
+    lat = "decimalLatitude",
+    species = "scientific", # Species names with genus and species
+    countries = ,
+    tests = c(
+      "duplicates", # duplicated records
+      "zeros" # records with coordinates 0,0
+      # "urban"         # records within urban areas
+    ),
+    zeros_rad = 0.5,
+    value = "spatialvalid" # result of tests are appended in separate columns
+  ) %>%
+  dplyr::tibble()
