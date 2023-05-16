@@ -1,0 +1,147 @@
+search_name,scientific_name,datetime,description,place_guess,latitude,longitude,tag_list,common_name,url,image_url,user_login,id,species_guess,iconic_taxon_name,taxon_id,num_identification_agreements,num_identification_disagreements,observed_on_string,observed_on,time_observed_at,time_zone,positional_accuracy,public_positional_accuracy,geoprivacy,taxon_geoprivacy,coordinates_obscured,positioning_method,positioning_device,user_id,user_name,created_at,updated_at,quality_grade,license,sound_url,oauth_application_id,captive_cultivated
+Acacia dealbata Link,Acacia longifolia,2021-10-04 11:42:00 +1100,"Acacia longifolia (Andrews) Willd. Part of the family Fabaceae, sub family Mimosaceae, as identified by the seed pods produced in this specimen. 
+A coastal shrub, the ‘leaves’ are modified phyllodes which is a characteristic of the genus Acacia. These phyllode leaves are thin and flexible with 2 main veins. The leaves are tough, smooth and are matte in texture. The Acacia genus has a particular of inflorescence whereby flowers are petite, often golden yellow, consisting of multitudes of stamens and flowers are distinctly clustered (in this case into a cylinder). There are two subspecies of the Acacia longifolia, this is most likely Acacia longifolia var.sophorae, as it was growing in sandy soils, was a low sprawling shrub, and has blunt and broader phyllode leaves, whereas Acacia longifolia var. longifolia is a taller shrub, in damper areas with longer, narrower phyllode leaves (as described in Les Robinsons field guide to the native plants of Sydney).
+","Sydney NSW, Australia",-33.9018555556,151.2253277778,,Longleaf Wattle,https://www.inaturalist.org/observations/98359681,https://inaturalist-open-data.s3.amazonaws.com/photos/163744057/medium.jpg,marsjupitersaturn,98359681,longleaf wattle,Plantae,63379,1,0,2021/10/04 11:42 AM AEDT,2021-10-04,2021-10-04 00:42:00 UTC,Sydney,5,5,NA,NA,false,NA,NA,5043617,,2021-10-16 09:29:14 UTC,2022-01-23 06:39:28 UTC,research,CC-BY-NC,NA,NA,false
+Acacia dealbata Link,Acacia longifolia,2016-09-11 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland 1010, Auckland Central/suburb of Grey Lynn, Newton, 1-3 Winchester St.
+
+<em>Habitat: Several plants growing wild. Mostly past flowering.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.",Auckland 1010,-36.861062,174.754454,,Longleaf Wattle,http://naturewatch.org.nz/observations/4081029,https://inaturalist-open-data.s3.amazonaws.com/photos/4841241/medium.jpeg,stephen_thorpe,4081029,Sydney golden wattle,Plantae,63379,1,0,2016-09-11,2016-09-11,,Auckland,10,10,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-09-10 22:34:40 UTC,2016-09-11 05:39:33 UTC,research,CC-BY-NC,NA,NA,false
+Acacia dealbata Link,Acacia longifolia,2016-09-09 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland 1010, suburb of Eden Terrace, 55 France St S.
+
+<em>Habitat: Growing in a tiny urban reserve.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","55 France St S, Eden Terrace, Auckland 1010",-36.861083,174.757928,,Longleaf Wattle,http://naturewatch.org.nz/observations/4066888,https://inaturalist-open-data.s3.amazonaws.com/photos/4819819/medium.jpeg,stephen_thorpe,4066888,Sydney golden wattle,Plantae,63379,1,0,2016-09-09,2016-09-09,,Auckland,6,6,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-09-08 21:32:48 UTC,2017-11-11 22:03:55 UTC,research,CC-BY-NC,NA,NA,false
+Acacia dealbata Link,Acacia longifolia,2016-08-21 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Saint Johns, Colin Maiden Park/Ngahue Reserve block.
+
+<em>Habitat: A group of shrubby trees growing in a wasteland area.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","Colin Maiden Park/Ngahue Reserve block, St Johns, Auckland",-36.88045,174.845115,,Longleaf Wattle,http://naturewatch.org.nz/observations/3927985,https://inaturalist-open-data.s3.amazonaws.com/photos/4622729/medium.jpeg,stephen_thorpe,3927985,Sydney golden wattle,Plantae,63379,1,0,2016-08-21,2016-08-21,,Auckland,29,29,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-08-21 00:08:05 UTC,2016-08-21 02:48:56 UTC,research,CC-BY-NC,NA,NA,false
+Acacia dealbata Link,Acacia longifolia,2016-07-29 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Saint Johns, Morrin Road, just outside perimeter fence of University of Auckland Tamaki Campus, at gate 1.
+
+<em>Habitat: Wild? Same individual as in <a href=""http://naturewatch.org.nz/observations/1011749"">this observation</a>.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.
+
+<em>NOTE: Beating the flowers and foliage revealed only numerous adults of <a href=""http://naturewatch.org.nz/observations/3762775"">NITIDULIDAE sp. ST1</a>.","Saint Johns, Auckland",-36.881677141,174.8511739075,,Longleaf Wattle,http://naturewatch.org.nz/observations/3762721,https://inaturalist-open-data.s3.amazonaws.com/photos/4383222/medium.jpeg,stephen_thorpe,3762721,Sydney golden wattle,Plantae,63379,1,0,2016-07-29,2016-07-29,,Auckland,1,1,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-07-29 04:11:08 UTC,2020-06-20 03:35:22 UTC,research,CC-BY-NC,NA,NA,false
+Acacia dealbata Link,Acacia longifolia,2015-09-11 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland Central, 106 Cook St.
+
+<em>Habitat: A group of plants, growing wild?
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","106 Cook St, Auckland Central",-36.850397,174.754775,,Longleaf Wattle,http://naturewatch.org.nz/observations/1934679,https://inaturalist-open-data.s3.amazonaws.com/photos/2367003/medium.JPG,stephen_thorpe,1934679,Sydney golden wattle,Plantae,63379,1,0,2015-09-11,2015-09-11,,Auckland,7,7,NA,NA,false,NA,NA,15329,Stephen Thorpe,2015-09-11 00:59:27 UTC,2020-06-19 23:20:51 UTC,research,CC-BY-NC,NA,NA,false
+Acacia dealbata Link,Acacia longifolia,2015-09-07 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland Central, 37 Alten Rd.
+
+<em>Habitat: Margin of unsealed carpark area.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","37 Alten Rd, Auckland Central",-36.852842,174.773229,,Longleaf Wattle,http://naturewatch.org.nz/observations/1922975,https://inaturalist-open-data.s3.amazonaws.com/photos/2350784/medium.JPG,stephen_thorpe,1922975,Sydney Golden Wattle,Plantae,63379,1,0,2015-09-07,2015-09-07,,Auckland,5,5,NA,NA,false,NA,NA,15329,Stephen Thorpe,2015-09-07 00:11:55 UTC,2016-03-07 03:22:57 UTC,research,CC-BY-NC,NA,NA,false
+Acacia dealbata Link,Acacia longifolia,2014-08-09 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Saint Johns, Morrin Road, just outside perimeter fence of University of Auckland Tamaki Campus, at gate 1.
+
+<em>Habitat: Wild?
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","Saint Johns, Auckland",-36.881677141,174.8511739075,August flowers,Longleaf Wattle,http://naturewatch.org.nz/observations/416290,https://s3.amazonaws.com/static.inaturalist.org/photos/1272333/medium.,stephen_thorpe,1011749,Sydney golden wattle,Plantae,63379,1,0,2014-08-09,2014-08-09,,Auckland,1,1,NA,NA,false,NA,NA,15329,Stephen Thorpe,2014-08-09 05:34:45 UTC,2017-11-11 22:03:46 UTC,research,CC-BY,NA,NA,false
+Acacia mearnsii De Wild.,Scrophularia grandiflora,2023-04-13 14:45:20 +0100,"Indiv. 5
+Eco: Vicia spp., A. altissima, C. selloana, L. ochrus, D. viscosa subp. viscosa, N. oleander, C, hispanica, Rubus sp., Acer negundo.","Bairro do Lufapo, Coimbra, Centro, PT",40.228875,-8.44013,,,https://www.inaturalist.org/observations/154697493,https://inaturalist-open-data.s3.amazonaws.com/photos/267326412/medium.jpg,alexandrerochasantos,154697493,Scrophularia grandiflora,Plantae,483252,1,0,2023-04-13 14:45:20+01:00,2023-04-13,2023-04-13 13:45:20 UTC,Lisbon,7,7,,,false,,,2687827,Alexandre Rocha Santos,2023-04-13 14:09:37 UTC,2023-04-13 18:56:16 UTC,research,CC-BY-NC,NA,3,false
+Acacia mearnsii De Wild.,Scrophularia grandiflora,2023-04-13 14:48:07 +0100,"Indiv. 5
+Eco: Vicia spp., A. altissima, C. selloana, L. ochrus, D. viscosa subp. viscosa, N. oleander, C, hispanica, Rubus sp., Acer negundo.","Bairro do Loreto, Coimbra, Centro, PT",40.22873,-8.439925,,,https://www.inaturalist.org/observations/154697112,https://inaturalist-open-data.s3.amazonaws.com/photos/267325763/medium.jpg,alexandrerochasantos,154697112,Scrophularia grandiflora,Plantae,483252,2,0,2023-04-13 14:48:07+01:00,2023-04-13,2023-04-13 13:48:07 UTC,Lisbon,21,21,,,false,,,2687827,Alexandre Rocha Santos,2023-04-13 14:05:55 UTC,2023-04-13 19:32:08 UTC,research,CC-BY-NC,NA,3,false
+Acacia mearnsii De Wild.,Scrophularia grandiflora,2023-04-13 14:48:10 +0100,"Indiv. 5
+Eco: Vicia spp., A. altissima, C. selloana, L. ochrus, D. viscosa subp. viscosa, N. oleander, C, hispanica, Rubus sp., Acer negundo.","Bairro do Loreto, Coimbra, Centro, PT",40.2287416667,-8.4398966667,,,https://www.inaturalist.org/observations/154697087,https://inaturalist-open-data.s3.amazonaws.com/photos/267325683/medium.jpg,alexandrerochasantos,154697087,Scrophularia grandiflora,Plantae,483252,2,0,2023-04-13 14:48:10+01:00,2023-04-13,2023-04-13 13:48:10 UTC,Lisbon,10,10,,,false,,,2687827,Alexandre Rocha Santos,2023-04-13 14:05:38 UTC,2023-04-13 19:32:09 UTC,research,CC-BY-NC,NA,3,false
+Acacia mearnsii De Wild.,Acer negundo,2022-09-04 19:08:46 +0200,"*Acer negundo* L.
+
+Sapindaceae
+P scap
+N-Americ.
+Status: esotica (neofita invasiva) 🔺️🔺️ 
+
+Altitudine: 1 m 
+Habitat: scogli","Catanzaro, Calabria, IT",38.9649075064,16.6784508152,,box elder,https://www.inaturalist.org/observations/141566467,https://static.inaturalist.org/photos/242557250/medium.jpeg,albertocapuano,141566467,Acer negundo,Plantae,47726,2,0,2022-09-04 19:08:46,2022-09-04,2022-09-04 17:08:46 UTC,Rome,441,28181,obscured,open,true,,,5829267,Alberto Capuano,2022-11-09 22:06:29 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false
+Acacia mearnsii De Wild.,Acer negundo,2022-11-01 15:51:30 +0200,Acer negundo L.,"Parcul Tineretului, Sibiu, Sibiu, RO",45.7965680012,24.1583961295,,box elder,https://www.inaturalist.org/observations/140774906,https://inaturalist-open-data.s3.amazonaws.com/photos/241022678/medium.jpg,mihaela_sava,140774906,Клён американский,Plantae,47726,2,0,2022-11-01 15:51:30+02:00,2022-11-01,2022-11-01 13:51:30 UTC,Bucharest,4,4,,open,false,,,6274134,,2022-11-01 13:52:12 UTC,2023-03-30 20:38:17 UTC,research,CC-BY-NC,NA,3,false
+Acacia mearnsii De Wild.,Acer negundo,2022-10-15 18:04:00 +0200,"*Acer negundo* L.
+
+Sapindaceae
+P scap
+N-Americ.
+Status: esotica (neofita invasiva) 🔺️🔺️ 
+
+Altitudine: 290 m ca.
+Habitat: muro
+
+Note: acero dal portamento sgraziato e disordinato, viene spesso piantato in viali e giardini nonostante il suo potenziale invasivo sia ampiamente riconosciuto. 
+Nel suo areale d'origine (Canada e USA) vegeta solitamente lungo le sponde dei torrenti. In Italia si rinviene, oltre che in ambienti ripariali, anche in zone disturbate e antropizzate. ","88100 Catanzaro CZ, Italia",38.9097919,16.5876516,,box elder,https://www.inaturalist.org/observations/138909466,https://static.inaturalist.org/photos/237486835/medium.jpeg,albertocapuano,138909466,box elder,Plantae,47726,3,0,2022-10-15 18:04:00,2022-10-15,2022-10-15 16:04:00 UTC,Rome,6885,6885,,open,false,,,5829267,Alberto Capuano,2022-10-15 23:43:07 UTC,2023-03-27 00:17:17 UTC,research,,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2022-09-18 11:02:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Tornavento (Lombardia), 150m",Italy,45.5435248738,8.7431265704,Parco regionale della valle del Ticino,box elder,https://www.inaturalist.org/observations/137505901,https://inaturalist-open-data.s3.amazonaws.com/photos/234862532/medium.jpeg,alberto_colatore,137505901,box elder,Plantae,47726,1,0,2022/09/18 11:02,2022-09-18,2022-09-18 09:02:00 UTC,Rome,25,27158,obscured,open,true,,,4483817,Alberto Colatore,2022-10-04 09:40:34 UTC,2022-10-04 13:13:37 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2022-09-11 16:50:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Palude Brabbia (Lombardia), 240m",Italy,45.6741013201,8.6700573937,Riserva naturale Palude Brabbia,box elder,https://www.inaturalist.org/observations/136897993,https://inaturalist-open-data.s3.amazonaws.com/photos/233714313/medium.jpeg,alberto_colatore,136897993,box elder,Plantae,47726,1,0,2022/09/11 16:50,2022-09-11,2022-09-11 14:50:00 UTC,Rome,25,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-09-29 10:09:56 UTC,2022-09-29 16:19:25 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Impatiens parviflora,2022-06-24 10:10:00 +0300,Forest plantation of Acer negundo L.,"Голосіївський район, Київ, Україна, 02000",50.3513896332,30.5264682843,,small balsam,https://www.inaturalist.org/observations/123384332,https://inaturalist-open-data.s3.amazonaws.com/photos/209008735/medium.jpeg,davydovbotany,123384332,small balsam,Plantae,51736,1,0,2022/06/24 10:10,2022-06-24,2022-06-24 07:10:00 UTC,Kyiv,15,15,,,false,,,1775236,Denis Davydov,2022-06-25 16:33:07 UTC,2022-06-25 16:34:53 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Geranium robertianum,2022-05-16 15:26:00 +0300,Community of Acer negundo L. near a pond,"Голосіївський район, Київ, Україна, 02000",50.3354840348,30.4907702085,,herb Robert,https://www.inaturalist.org/observations/117485520,https://inaturalist-open-data.s3.amazonaws.com/photos/198414358/medium.jpeg,davydovbotany,117485520,Журавець Смердючий (Герань Робертова),Plantae,55925,3,0,2022/05/16 3:26 дня,2022-05-16,2022-05-16 12:26:00 UTC,Kyiv,4,4,,,false,,,1775236,Denis Davydov,2022-05-17 18:49:48 UTC,2022-05-19 09:43:23 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Equisetum arvense,2022-05-16 15:25:00 +0300,Community of Acer negundo L. near a pond,"Голосіївський район, Київ, Україна, 02000",50.335494307,30.4907702047,,field horsetail,https://www.inaturalist.org/observations/117485519,https://inaturalist-open-data.s3.amazonaws.com/photos/198414315/medium.jpeg,davydovbotany,117485519,Хвощ полевой,Plantae,52724,1,0,2022/05/16 3:25 дня,2022-05-16,2022-05-16 12:25:00 UTC,Kyiv,4,4,,open,false,,,1775236,Denis Davydov,2022-05-17 18:49:47 UTC,2022-05-19 09:43:31 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Lamium maculatum,2022-05-16 15:25:00 +0300,"Community of Acer negundo L. near a pond, with L. galeobdolon","Голосіївський район, Київ, Україна, 02000",50.335496019,30.4907272874,,Spotted deadnettle,https://www.inaturalist.org/observations/117485518,https://inaturalist-open-data.s3.amazonaws.com/photos/198414275/medium.jpeg,davydovbotany,117485518,Gefleckte Taubnessel,Plantae,55828,2,0,2022/05/16 3:25 дня,2022-05-16,2022-05-16 12:25:00 UTC,Kyiv,4,4,,,false,,,1775236,Denis Davydov,2022-05-17 18:49:47 UTC,2022-05-19 09:43:43 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Lamium galeobdolon,2022-05-16 15:25:00 +0300,Community of Acer negundo L. near a pond,"Голосіївський район, Київ, Україна, 02000",50.335496019,30.4906950999,,yellow archangel,https://www.inaturalist.org/observations/117485516,https://inaturalist-open-data.s3.amazonaws.com/photos/198414244/medium.jpeg,davydovbotany,117485516,Gewöhnliche Goldnessel,Plantae,204339,2,0,2022/05/16 3:25 дня,2022-05-16,2022-05-16 12:25:00 UTC,Kyiv,4,4,,,false,,,1775236,Denis Davydov,2022-05-17 18:49:47 UTC,2022-05-19 09:43:49 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2022-04-25 15:46:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Lago di Comabbio (Lombardia), 245m",Italy,45.6043323752,8.6866597529,Parco regionale della valle del Ticino,box elder,https://www.inaturalist.org/observations/113825588,https://inaturalist-open-data.s3.amazonaws.com/photos/192273207/medium.jpeg,alberto_colatore,113825588,Клён американский,Plantae,47726,1,0,2022/04/25 3:46 PM,2022-04-25,2022-04-25 13:46:00 UTC,Rome,10,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-04-30 15:21:49 UTC,2022-05-04 19:19:00 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2022-04-25 15:23:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Lago di Comabbio (Lombardia), 245m",Italy,45.7356328576,8.7878009908,Parco regionale della valle del Ticino,box elder,https://www.inaturalist.org/observations/113820464,https://inaturalist-open-data.s3.amazonaws.com/photos/192260552/medium.jpeg,alberto_colatore,113820464,Клён американский,Plantae,47726,1,0,2022/04/25 3:23 PM,2022-04-25,2022-04-25 13:23:00 UTC,Rome,10,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-04-30 15:10:22 UTC,2022-05-04 19:18:58 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2021-05-18 08:34:02 +0200,Negundo (Acer negundo L.),"17500 Ripoll, Girona, Espanya",42.1997688,2.1891105,,box elder,https://www.inaturalist.org/observations/79245197,https://static.inaturalist.org/photos/129783356/medium.jpeg,martina_puig,79245197,Negundo,Plantae,47726,2,0,2021-05-18 08:34:02,2021-05-18,2021-05-18 06:34:02 UTC,Madrid,2126,2126,,,false,,,4428630,Martina Puig,2021-05-18 06:34:55 UTC,2021-05-18 07:00:18 UTC,research,,NA,2,false
+Acacia mearnsii De Wild.,Acer negundo,2020-04-14 09:28:46 +0400,"Acer negundo L. (семейство Aceraceae)
+
+Клён американский
+
+","Самара, Самарская обл., Россия, 443112",53.3421735,50.2279313,,box elder,https://www.inaturalist.org/observations/51445679,https://static.inaturalist.org/photos/81738351/medium.jpg,naturalist38499,51445679,Клён американский,Plantae,47726,1,0,2020-04-14 9:28:46 AM GMT+04:00,2020-04-14,2020-04-14 05:28:46 UTC,Abu Dhabi,NA,NA,,,false,gps,gps,3253989,Анна Митрошенкова,2020-06-30 07:04:48 UTC,2021-08-06 12:19:39 UTC,research,CC-BY,NA,2,false
+Acacia mearnsii De Wild.,Acer negundo,2015-04-26 22:22:40 -0400,"Box elder | Box maple
+Acer negundo L. (Sapindaceae)
+Riverine woods, alt. 15m
+Jones Point, New York, USA",", New York, United States",41.288255,-73.95893,"box, elder, Sapindaceae, boxelder, maple, ash-leaved, ash, Manitoba, Bear, Mountain, elf, Acer negundo",box elder,https://www.inaturalist.org/observations/41880008,https://static.inaturalist.org/photos/66457419/medium.jpg,tammor,41880008,boxelder,Plantae,47726,2,0,2015-04-26 22:22:40,2015-04-26,2015-04-27 02:22:40 UTC,Eastern Time (US & Canada),NA,NA,,,false,,,2724050,Tammo Reichgelt,2020-04-11 03:19:05 UTC,2020-04-11 10:18:41 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2020-04-07 14:19:08 -0400,"Box elder
+Acer negundo L. (Sapindaceae)
+Woods edge, alt. 5m
+Connecticut River, Connecticut, USA","South Windsor, Connecticut, United States",41.822198,-72.635185,"Box, elder, boxelder, maple, ash-leaved, ash, Connecticut, River, Sapindaceae, flowers, Linear, Park, South, Windsor, Acer negudo",box elder,https://www.inaturalist.org/observations/41679923,https://static.inaturalist.org/photos/66124638/medium.jpg,tammor,41679923,boxelder,Plantae,47726,1,0,2020-04-07 14:19:08,2020-04-07,2020-04-07 18:19:08 UTC,Eastern Time (US & Canada),NA,NA,,,false,,,2724050,Tammo Reichgelt,2020-04-08 12:56:24 UTC,2020-04-08 13:19:23 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2017-09-08 17:56:31 -0400,"in fruit.
+8 September 2017
+Lost Lake Area
+Patapsco Valley SP
+Baltimore County
+Relay Quad
+s.n.",Lost Lake Area Patapsco Valley SP,39.230109,-76.729264,Acer negundo L. - Boxelder,box elder,https://www.inaturalist.org/observations/13596300,https://static.inaturalist.org/photos/20001383/medium.jpg,urban_botanist,13596300,boxelder maple,Plantae,47726,2,0,2017-09-08 17:56:31,2017-09-08,2017-09-08 21:56:31 UTC,Eastern Time (US & Canada),31,31,,open,false,,manual,43448,Bill Harms,2018-06-20 00:42:36 UTC,2022-12-01 03:35:29 UTC,research,CC-BY-NC,NA,NA,false
+Acacia mearnsii De Wild.,Acer negundo,2016-01-15 00:00:00 -0800,"Kingdom: Plantae
+Class: Magnoliopsida
+Order: Sapindales
+Family: Aceraceae
+Genus: Acer L.
+Species: Acer Negundo 
+
+The Box Elder is a maple tree that grows from 10-25m. Its bark is rough on the stem, but smooth on the branches. Its bark is a light green color. The flowers appear in early spring on drooping racemes. The fruits on his tree are samaras which contain seeds. This species loses its leaves in the fall and winter months. ",University of Lethbridge,49.679157,-112.863463,,box elder,http://www.inaturalist.org/observations/2613136,https://inaturalist-open-data.s3.amazonaws.com/photos/2922341/medium.JPG,bio5moos,2613136,boxelder,Plantae,47726,1,0,2016-01-15,2016-01-15,,Pacific Time (US & Canada),NA,NA,,open,false,,,169431,Mackenzie Moos,2016-01-24 19:16:04 UTC,2020-05-21 03:31:30 UTC,research,CC-BY-NC,NA,NA,false
+Acroptilon repens (L.) DC.,Jacquemontia tamnifolia,2020-10-24 10:39:00 -0500,Albizia julibrissin Durazz.  and Senna obtusifolia (L.) Irwin & Barneby growing with this species in gravelbar.,"Bloucher Ford Nature Preserve - Land Trust of North Alabama, New Market, AL 35761, USA",34.8740839167,-86.4743156111,,Hairy cluster-vine,https://www.inaturalist.org/observations/70004060,https://inaturalist-open-data.s3.amazonaws.com/photos/113714450/medium.jpg,lweninegar,70004060,Jacquemontia tamnifolia,Plantae,164215,1,0,2020/10/24 10:39 AM CDT,2020-10-24,2020-10-24 15:39:00 UTC,Central Time (US & Canada),NA,NA,NA,NA,false,NA,,294845,Loretta Lynne Weninegar,2021-02-22 20:54:41 UTC,2021-11-01 01:50:01 UTC,research,,NA,NA,false
+Acroptilon repens (L.) DC.,Albizia julibrissin,2017-06-21 13:33:51 -0400,"in bloom.
+21 June 2017
+Bauman Drive
+Elkridge
+Howard County
+Relay Quad
+s.n.","Bauman Drive, Elkridge, MD, USA",39.208948,-76.743238,Albizia julibrissin Durazz. - Silk Tree,Persian silk tree,https://www.inaturalist.org/observations/13689500,https://static.inaturalist.org/photos/20163751/medium.jpg,urban_botanist,13689500,Persian silk tree,Plantae,47443,1,0,2017-06-21 13:33:51,2017-06-21,2017-06-21 17:33:51 UTC,Eastern Time (US & Canada),568,568,NA,NA,false,NA,google,43448,Bill Harms,2018-06-23 02:48:08 UTC,2022-01-13 21:06:36 UTC,research,CC-BY-NC,NA,NA,false
+Acroptilon repens (L.) DC.,Albizia julibrissin,2016-06-26 00:00:00 -0600,"Mimosa (Albizia julibrissin)
+
+26 June 2016 
+Lyndon B. Johnson National Grassland 
+County Road 2560 & Forest Service Road 900 
+Wise County, Texas
+
+A single Mimosa tree that had been heavily pruned at some point was making a comeback and its canopy was ablaze in its bright pink and white flowers. From Pennsylvania and Massachusetts on the East Coast of the United States to California on the West Coast, Mimosa makes its presence known as an introduced species. It is not found in Canada, even as an introduced species according to the range map of the Plants Database. But though not indicated it is certainly found in Mexico and perhaps farther south in the Americas. Additional common names for this tree include Persian Silk Tree and Pink Silk Tree. It is a tree that's native to ""southwestern and eastern Asia,"" according to its Wikipedia entry. The Lyndon B. Johnson National Grassland is administered by the US Forest Service, US Department of Agriculture.
+
+Sources:
+
+""Albizia julibrissin,"" Wikipedia, description, photographs, bibliography, accessed 6.30.16, https://en.wikipedia.org/wiki/Albizia_julibrissin
+
+""Albizia julibrissin Durazz. - Silktree,"" Plants Database, US Department of Agriculture, Natural Resources Conservation Service, range map, photographs, description, classification, resources, accessed 6.30.16, http://plants.usda.gov/core/profile?symbol=alju","Cottonwood Lake, Lyndon B. Johnson National Grassland, County Road 2560, Wise County, Texas",33.384074,-97.556654,"Mimosa (Albizia julibrissin), Cottonwood Lake, Lyndon B. Johnson National Grassland, County Road 2560, Wise County, Texas, Mimosa, introduced, North Texas, North America, Western Hemisphere, Plants Database, US Department of Agriculture, Natural Resources Conservation Service, Wikipedia",Persian silk tree,http://www.inaturalist.org/observations/3577191,https://inaturalist-open-data.s3.amazonaws.com/photos/4149424/medium.jpg,aguilita,3577191,Persian Silk Tree,Plantae,47443,2,0,2016-06-26,2016-06-26,,Central Time (US & Canada),137,137,NA,NA,false,NA,,115129,Roberto R. Calderón,2016-07-01 05:48:29 UTC,2017-09-26 11:57:15 UTC,research,CC-BY-NC,NA,NA,false
+Aethionema saxatile (L.) W.T.Aiton,Allium triquetrum,2015-11-02 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Henderson, Opanuku Walkway at Henderson Park/Shona Esplanade Reserve.
+
+<em>Habitat: A few plants growing on the side of the track.
+
+<em>Identification: </em>Allium triquetrum<em> L., 1753.","Henderson Park/Shona Esplanade Reserve, suburb of Henderson, Auckland",-36.880543,174.621793,November flowers,Three-cornered garlic,http://naturewatch.org.nz/observations/2339696,https://inaturalist-open-data.s3.amazonaws.com/photos/2596450/medium.jpg,stephen_thorpe,2339696,Three-cornered garlic,Plantae,55505,2,0,2015-11-02,2015-11-02,NA,Auckland,7,7,NA,NA,false,NA,NA,15329,Stephen Thorpe,2015-11-01 20:08:52 UTC,2020-01-29 02:25:42 UTC,research,CC-BY-NC,NA,NA,false
+Agrostis gigantea Roth,Ammi majus,2016-03-26 15:38:52 +0300,Native species to Saudi Arabia,"Ḩaḑram, , Saudi Arabia",20.31082,41.194288,"#Flora_of_The_Arabian_Peninsula_and_Socotra, #Flora_of_Saudi_Arabia, #Saudi_Biodiversity, Ammi majus L.",Bullwort,https://www.inaturalist.org/observations/107488856,https://inaturalist-open-data.s3.amazonaws.com/photos/180793412/medium.jpg,saudibotanist,107488856,ammi élevé,Plantae,75417,1,0,2016-03-26 15:38:52,2016-03-26,2016-03-26 12:38:52 UTC,Riyadh,NA,NA,NA,NA,false,NA,NA,11338,Ali Mohammed Alzahrani,2022-02-26 17:22:49 UTC,2022-06-12 00:44:51 UTC,research,CC-BY-NC,NA,NA,false
