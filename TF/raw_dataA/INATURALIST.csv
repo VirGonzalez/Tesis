@@ -1,0 +1,630 @@
+scientific_name,datetime,description,place_guess,latitude,longitude,tag_list,common_name,url,image_url,user_login,id,species_guess,iconic_taxon_name,taxon_id,num_identification_agreements,num_identification_disagreements,observed_on_string,observed_on,time_observed_at,time_zone,positional_accuracy,public_positional_accuracy,geoprivacy,taxon_geoprivacy,coordinates_obscured,positioning_method,positioning_device,user_id,user_name,created_at,updated_at,quality_grade,license,sound_url,oauth_application_id,captive_cultivated,year
+Acacia dealbata,2011-01-18 08:27:36 +0100,"<i>Acacia dealbata</i> Link, Aranda, ACT, 18 January 2011","Canberra, Australian Capital Territory, Australia",-35.264735,149.0843,"Mimosaceae, Acacia, dealbata, Aranda, ACT, Australia, January, 2011, taxonomy:genus=Acacia, taxonomy:family=Mimosaceae, geo:country=Australia, geo:lat=-35.2647, geo:lon=149.0843, geocode:accuracy=14, taxonomy:binomial=Acacia dealbata, Acacia dealbata",Silver wattle,https://www.inaturalist.org/observations/20287956,https://inaturalist-open-data.s3.amazonaws.com/photos/31319617/medium.jpg,dhobern,20287956,Silver wattle,Plantae,53343,1,0,2011-01-18 08:27:36,2011-01-18,2011-01-18 07:27:36 UTC,Copenhagen,NA,NA,NA,NA,false,NA,NA,4859,Donald Hobern,2019-02-11 21:53:11 UTC,2019-02-15 22:24:04 UTC,research,CC0,NA,NA,false,2011
+Acacia dealbata,2010-11-03 08:25:58 +0100,"<i>Acacia dealbata</i> Link, Black Mountain, Canberra, ACT, 3 November 2010","Canberra, Australian Capital Territory, Australia",-35.265594,149.091081,"Acacia, Black Mountain, Canberra, ACT, Australia, November, 2010, taxonomy:genus=Acacia, geo:country=Australia, geo:lat=-35.2656, geo:lon=149.0911, geocode:accuracy=14, dealbata, Acacia dealbata, taxonomy:binomial=Acacia dealbata, Mimosaceae, taxonomy:family=Mimosaceae",Silver wattle,https://www.inaturalist.org/observations/20226631,https://inaturalist-open-data.s3.amazonaws.com/photos/31214958/medium.jpg,dhobern,20226631,Silver wattle,Plantae,53343,1,0,2010-11-03 08:25:58,2010-11-03,2010-11-03 07:25:58 UTC,Copenhagen,NA,NA,NA,NA,false,NA,NA,4859,Donald Hobern,2019-02-09 11:37:49 UTC,2022-02-15 04:44:24 UTC,research,CC0,NA,NA,false,2010
+Acacia dealbata,2017-10-10 11:05:26 +0200,"<i>Acacia dealbata</i> Link, Namadgi National Park, ACT, 10 October 2017","Australian Capital Territory, Australia",-35.563409,148.992719,"2017, ACT, Australia, Namadgi National Park, October, Fabaceae, Acacia dealbata",Silver wattle,https://www.inaturalist.org/observations/8468977,https://inaturalist-open-data.s3.amazonaws.com/photos/11290329/medium.jpg,dhobern,8468977,Silver wattle,Plantae,53343,1,0,2017-10-10 11:05:26,2017-10-10,2017-10-10 09:05:26 UTC,Copenhagen,NA,NA,NA,NA,false,NA,NA,4859,Donald Hobern,2017-10-19 20:04:50 UTC,2017-10-21 08:20:27 UTC,research,CC0,NA,NA,false,2017
+Acacia dealbata,2017-10-10 11:18:57 +0200,"<i>Acacia dealbata</i> Link, Namadgi National Park, ACT, 10 October 2017","Australian Capital Territory, Australia",-35.561209,148.993536,"2017, ACT, Australia, Namadgi National Park, October, Fabaceae, Acacia dealbata",Silver wattle,https://www.inaturalist.org/observations/8468966,https://inaturalist-open-data.s3.amazonaws.com/photos/11290314/medium.jpg,dhobern,8468966,Silver wattle,Plantae,53343,1,0,2017-10-10 11:18:57,2017-10-10,2017-10-10 09:18:57 UTC,Copenhagen,NA,NA,NA,NA,false,NA,NA,4859,Donald Hobern,2017-10-19 20:04:19 UTC,2022-03-27 01:21:46 UTC,research,CC0,NA,NA,false,2017
+Acacia longifolia,2021-10-04 11:42:00 +1100,"Acacia longifolia (Andrews) Willd. Part of the family Fabaceae, sub family Mimosaceae, as identified by the seed pods produced in this specimen. 
+A coastal shrub, the ‘leaves’ are modified phyllodes which is a characteristic of the genus Acacia. These phyllode leaves are thin and flexible with 2 main veins. The leaves are tough, smooth and are matte in texture. The Acacia genus has a particular of inflorescence whereby flowers are petite, often golden yellow, consisting of multitudes of stamens and flowers are distinctly clustered (in this case into a cylinder). There are two subspecies of the Acacia longifolia, this is most likely Acacia longifolia var.sophorae, as it was growing in sandy soils, was a low sprawling shrub, and has blunt and broader phyllode leaves, whereas Acacia longifolia var. longifolia is a taller shrub, in damper areas with longer, narrower phyllode leaves (as described in Les Robinsons field guide to the native plants of Sydney).
+","Sydney NSW, Australia",-33.9018555556,151.2253277778,,Longleaf Wattle,https://www.inaturalist.org/observations/98359681,https://inaturalist-open-data.s3.amazonaws.com/photos/163744057/medium.jpg,marsjupitersaturn,98359681,longleaf wattle,Plantae,63379,1,0,2021/10/04 11:42 AM AEDT,2021-10-04,2021-10-04 00:42:00 UTC,Sydney,5,5,NA,NA,false,NA,NA,5043617,,2021-10-16 09:29:14 UTC,2022-01-23 06:39:28 UTC,research,CC-BY-NC,NA,NA,false,2021
+Acacia longifolia,2016-09-11 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland 1010, Auckland Central/suburb of Grey Lynn, Newton, 1-3 Winchester St.
+
+<em>Habitat: Several plants growing wild. Mostly past flowering.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.",Auckland 1010,-36.861062,174.754454,,Longleaf Wattle,http://naturewatch.org.nz/observations/4081029,https://inaturalist-open-data.s3.amazonaws.com/photos/4841241/medium.jpeg,stephen_thorpe,4081029,Sydney golden wattle,Plantae,63379,1,0,2016-09-11,2016-09-11,,Auckland,10,10,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-09-10 22:34:40 UTC,2016-09-11 05:39:33 UTC,research,CC-BY-NC,NA,NA,false,2016
+Acacia longifolia,2016-09-09 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland 1010, suburb of Eden Terrace, 55 France St S.
+
+<em>Habitat: Growing in a tiny urban reserve.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","55 France St S, Eden Terrace, Auckland 1010",-36.861083,174.757928,,Longleaf Wattle,http://naturewatch.org.nz/observations/4066888,https://inaturalist-open-data.s3.amazonaws.com/photos/4819819/medium.jpeg,stephen_thorpe,4066888,Sydney golden wattle,Plantae,63379,1,0,2016-09-09,2016-09-09,,Auckland,6,6,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-09-08 21:32:48 UTC,2017-11-11 22:03:55 UTC,research,CC-BY-NC,NA,NA,false,2016
+Acacia longifolia,2016-08-21 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Saint Johns, Colin Maiden Park/Ngahue Reserve block.
+
+<em>Habitat: A group of shrubby trees growing in a wasteland area.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","Colin Maiden Park/Ngahue Reserve block, St Johns, Auckland",-36.88045,174.845115,,Longleaf Wattle,http://naturewatch.org.nz/observations/3927985,https://inaturalist-open-data.s3.amazonaws.com/photos/4622729/medium.jpeg,stephen_thorpe,3927985,Sydney golden wattle,Plantae,63379,1,0,2016-08-21,2016-08-21,,Auckland,29,29,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-08-21 00:08:05 UTC,2016-08-21 02:48:56 UTC,research,CC-BY-NC,NA,NA,false,2016
+Acacia longifolia,2016-07-29 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Saint Johns, Morrin Road, just outside perimeter fence of University of Auckland Tamaki Campus, at gate 1.
+
+<em>Habitat: Wild? Same individual as in <a href=""http://naturewatch.org.nz/observations/1011749"">this observation</a>.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.
+
+<em>NOTE: Beating the flowers and foliage revealed only numerous adults of <a href=""http://naturewatch.org.nz/observations/3762775"">NITIDULIDAE sp. ST1</a>.","Saint Johns, Auckland",-36.881677141,174.8511739075,,Longleaf Wattle,http://naturewatch.org.nz/observations/3762721,https://inaturalist-open-data.s3.amazonaws.com/photos/4383222/medium.jpeg,stephen_thorpe,3762721,Sydney golden wattle,Plantae,63379,1,0,2016-07-29,2016-07-29,,Auckland,1,1,NA,NA,false,NA,NA,15329,Stephen Thorpe,2016-07-29 04:11:08 UTC,2020-06-20 03:35:22 UTC,research,CC-BY-NC,NA,NA,false,2016
+Acacia longifolia,2015-09-11 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland Central, 106 Cook St.
+
+<em>Habitat: A group of plants, growing wild?
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","106 Cook St, Auckland Central",-36.850397,174.754775,,Longleaf Wattle,http://naturewatch.org.nz/observations/1934679,https://inaturalist-open-data.s3.amazonaws.com/photos/2367003/medium.JPG,stephen_thorpe,1934679,Sydney golden wattle,Plantae,63379,1,0,2015-09-11,2015-09-11,,Auckland,7,7,NA,NA,false,NA,NA,15329,Stephen Thorpe,2015-09-11 00:59:27 UTC,2020-06-19 23:20:51 UTC,research,CC-BY-NC,NA,NA,false,2015
+Acacia longifolia,2015-09-07 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland Central, 37 Alten Rd.
+
+<em>Habitat: Margin of unsealed carpark area.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","37 Alten Rd, Auckland Central",-36.852842,174.773229,,Longleaf Wattle,http://naturewatch.org.nz/observations/1922975,https://inaturalist-open-data.s3.amazonaws.com/photos/2350784/medium.JPG,stephen_thorpe,1922975,Sydney Golden Wattle,Plantae,63379,1,0,2015-09-07,2015-09-07,,Auckland,5,5,NA,NA,false,NA,NA,15329,Stephen Thorpe,2015-09-07 00:11:55 UTC,2016-03-07 03:22:57 UTC,research,CC-BY-NC,NA,NA,false,2015
+Acacia longifolia,2014-08-09 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Saint Johns, Morrin Road, just outside perimeter fence of University of Auckland Tamaki Campus, at gate 1.
+
+<em>Habitat: Wild?
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/5328038"">Acacia longifolia</a><em> (Andrews) Willd., 1806.","Saint Johns, Auckland",-36.881677141,174.8511739075,August flowers,Longleaf Wattle,http://naturewatch.org.nz/observations/416290,https://s3.amazonaws.com/static.inaturalist.org/photos/1272333/medium.,stephen_thorpe,1011749,Sydney golden wattle,Plantae,63379,1,0,2014-08-09,2014-08-09,,Auckland,1,1,NA,NA,false,NA,NA,15329,Stephen Thorpe,2014-08-09 05:34:45 UTC,2017-11-11 22:03:46 UTC,research,CC-BY,NA,NA,false,2014
+Acacia mearnsii,2014-08-13 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Glen Innes, Glen Innes Train Station.
+
+<em>Habitat: One tree, growing above entrance to underpass.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/4962727"">Acacia mearnsii</a><em> De Wild., 1925.","Glen Innes Train Station, Auckland",-36.8781135014,174.8534846306,NA,black wattle,http://naturewatch.org.nz/observations/416767,https://s3.amazonaws.com/static.inaturalist.org/photos/1272822/medium.,stephen_thorpe,1012198,black wattle,Plantae,75250,1,0,2014-08-13,2014-08-13,NA,Auckland,6,6,NA,NA,false,NA,NA,15329,Stephen Thorpe,2014-08-13 01:22:19 UTC,2019-04-20 10:32:35 UTC,research,CC-BY,NA,NA,false,2014
+Scrophularia grandiflora,2023-04-13 14:45:20 +0100,"Indiv. 5
+Eco: Vicia spp., A. altissima, C. selloana, L. ochrus, D. viscosa subp. viscosa, N. oleander, C, hispanica, Rubus sp., Acer negundo.","Bairro do Lufapo, Coimbra, Centro, PT",40.228875,-8.44013,,,https://www.inaturalist.org/observations/154697493,https://inaturalist-open-data.s3.amazonaws.com/photos/267326412/medium.jpg,alexandrerochasantos,154697493,Scrophularia grandiflora,Plantae,483252,1,0,2023-04-13 14:45:20+01:00,2023-04-13,2023-04-13 13:45:20 UTC,Lisbon,7,7,,,false,,,2687827,Alexandre Rocha Santos,2023-04-13 14:09:37 UTC,2023-04-13 18:56:16 UTC,research,CC-BY-NC,NA,3,false,2023
+Scrophularia grandiflora,2023-04-13 14:48:07 +0100,"Indiv. 5
+Eco: Vicia spp., A. altissima, C. selloana, L. ochrus, D. viscosa subp. viscosa, N. oleander, C, hispanica, Rubus sp., Acer negundo.","Bairro do Loreto, Coimbra, Centro, PT",40.22873,-8.439925,,,https://www.inaturalist.org/observations/154697112,https://inaturalist-open-data.s3.amazonaws.com/photos/267325763/medium.jpg,alexandrerochasantos,154697112,Scrophularia grandiflora,Plantae,483252,2,0,2023-04-13 14:48:07+01:00,2023-04-13,2023-04-13 13:48:07 UTC,Lisbon,21,21,,,false,,,2687827,Alexandre Rocha Santos,2023-04-13 14:05:55 UTC,2023-04-13 19:32:08 UTC,research,CC-BY-NC,NA,3,false,2023
+Scrophularia grandiflora,2023-04-13 14:48:10 +0100,"Indiv. 5
+Eco: Vicia spp., A. altissima, C. selloana, L. ochrus, D. viscosa subp. viscosa, N. oleander, C, hispanica, Rubus sp., Acer negundo.","Bairro do Loreto, Coimbra, Centro, PT",40.2287416667,-8.4398966667,,,https://www.inaturalist.org/observations/154697087,https://inaturalist-open-data.s3.amazonaws.com/photos/267325683/medium.jpg,alexandrerochasantos,154697087,Scrophularia grandiflora,Plantae,483252,2,0,2023-04-13 14:48:10+01:00,2023-04-13,2023-04-13 13:48:10 UTC,Lisbon,10,10,,,false,,,2687827,Alexandre Rocha Santos,2023-04-13 14:05:38 UTC,2023-04-13 19:32:09 UTC,research,CC-BY-NC,NA,3,false,2023
+Acer negundo,2022-09-04 19:08:46 +0200,"*Acer negundo* L.
+
+Sapindaceae
+P scap
+N-Americ.
+Status: esotica (neofita invasiva) 🔺️🔺️ 
+
+Altitudine: 1 m 
+Habitat: scogli","Catanzaro, Calabria, IT",38.9649075064,16.6784508152,,box elder,https://www.inaturalist.org/observations/141566467,https://static.inaturalist.org/photos/242557250/medium.jpeg,albertocapuano,141566467,Acer negundo,Plantae,47726,2,0,2022-09-04 19:08:46,2022-09-04,2022-09-04 17:08:46 UTC,Rome,441,28181,obscured,open,true,,,5829267,Alberto Capuano,2022-11-09 22:06:29 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false,2022
+Acer negundo,2022-11-01 15:51:30 +0200,Acer negundo L.,"Parcul Tineretului, Sibiu, Sibiu, RO",45.7965680012,24.1583961295,,box elder,https://www.inaturalist.org/observations/140774906,https://inaturalist-open-data.s3.amazonaws.com/photos/241022678/medium.jpg,mihaela_sava,140774906,Клён американский,Plantae,47726,2,0,2022-11-01 15:51:30+02:00,2022-11-01,2022-11-01 13:51:30 UTC,Bucharest,4,4,,open,false,,,6274134,,2022-11-01 13:52:12 UTC,2023-03-30 20:38:17 UTC,research,CC-BY-NC,NA,3,false,2022
+Acer negundo,2022-10-15 18:04:00 +0200,"*Acer negundo* L.
+
+Sapindaceae
+P scap
+N-Americ.
+Status: esotica (neofita invasiva) 🔺️🔺️ 
+
+Altitudine: 290 m ca.
+Habitat: muro
+
+Note: acero dal portamento sgraziato e disordinato, viene spesso piantato in viali e giardini nonostante il suo potenziale invasivo sia ampiamente riconosciuto. 
+Nel suo areale d'origine (Canada e USA) vegeta solitamente lungo le sponde dei torrenti. In Italia si rinviene, oltre che in ambienti ripariali, anche in zone disturbate e antropizzate. ","88100 Catanzaro CZ, Italia",38.9097919,16.5876516,,box elder,https://www.inaturalist.org/observations/138909466,https://static.inaturalist.org/photos/237486835/medium.jpeg,albertocapuano,138909466,box elder,Plantae,47726,3,0,2022-10-15 18:04:00,2022-10-15,2022-10-15 16:04:00 UTC,Rome,6885,6885,,open,false,,,5829267,Alberto Capuano,2022-10-15 23:43:07 UTC,2023-03-27 00:17:17 UTC,research,,NA,NA,false,2022
+Acer negundo,2022-09-18 11:02:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Tornavento (Lombardia), 150m",Italy,45.5435248738,8.7431265704,Parco regionale della valle del Ticino,box elder,https://www.inaturalist.org/observations/137505901,https://inaturalist-open-data.s3.amazonaws.com/photos/234862532/medium.jpeg,alberto_colatore,137505901,box elder,Plantae,47726,1,0,2022/09/18 11:02,2022-09-18,2022-09-18 09:02:00 UTC,Rome,25,27158,obscured,open,true,,,4483817,Alberto Colatore,2022-10-04 09:40:34 UTC,2022-10-04 13:13:37 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer negundo,2022-09-11 16:50:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Palude Brabbia (Lombardia), 240m",Italy,45.6741013201,8.6700573937,Riserva naturale Palude Brabbia,box elder,https://www.inaturalist.org/observations/136897993,https://inaturalist-open-data.s3.amazonaws.com/photos/233714313/medium.jpeg,alberto_colatore,136897993,box elder,Plantae,47726,1,0,2022/09/11 16:50,2022-09-11,2022-09-11 14:50:00 UTC,Rome,25,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-09-29 10:09:56 UTC,2022-09-29 16:19:25 UTC,research,CC-BY-NC,NA,NA,false,2022
+Impatiens parviflora,2022-06-24 10:10:00 +0300,Forest plantation of Acer negundo L.,"Голосіївський район, Київ, Україна, 02000",50.3513896332,30.5264682843,,small balsam,https://www.inaturalist.org/observations/123384332,https://inaturalist-open-data.s3.amazonaws.com/photos/209008735/medium.jpeg,davydovbotany,123384332,small balsam,Plantae,51736,1,0,2022/06/24 10:10,2022-06-24,2022-06-24 07:10:00 UTC,Kyiv,15,15,,,false,,,1775236,Denis Davydov,2022-06-25 16:33:07 UTC,2022-06-25 16:34:53 UTC,research,CC-BY-NC,NA,NA,false,2022
+Geranium robertianum,2022-05-16 15:26:00 +0300,Community of Acer negundo L. near a pond,"Голосіївський район, Київ, Україна, 02000",50.3354840348,30.4907702085,,herb Robert,https://www.inaturalist.org/observations/117485520,https://inaturalist-open-data.s3.amazonaws.com/photos/198414358/medium.jpeg,davydovbotany,117485520,Журавець Смердючий (Герань Робертова),Plantae,55925,3,0,2022/05/16 3:26 дня,2022-05-16,2022-05-16 12:26:00 UTC,Kyiv,4,4,,,false,,,1775236,Denis Davydov,2022-05-17 18:49:48 UTC,2022-05-19 09:43:23 UTC,research,CC-BY-NC,NA,NA,false,2022
+Equisetum arvense,2022-05-16 15:25:00 +0300,Community of Acer negundo L. near a pond,"Голосіївський район, Київ, Україна, 02000",50.335494307,30.4907702047,,field horsetail,https://www.inaturalist.org/observations/117485519,https://inaturalist-open-data.s3.amazonaws.com/photos/198414315/medium.jpeg,davydovbotany,117485519,Хвощ полевой,Plantae,52724,1,0,2022/05/16 3:25 дня,2022-05-16,2022-05-16 12:25:00 UTC,Kyiv,4,4,,open,false,,,1775236,Denis Davydov,2022-05-17 18:49:47 UTC,2022-05-19 09:43:31 UTC,research,CC-BY-NC,NA,NA,false,2022
+Lamium maculatum,2022-05-16 15:25:00 +0300,"Community of Acer negundo L. near a pond, with L. galeobdolon","Голосіївський район, Київ, Україна, 02000",50.335496019,30.4907272874,,Spotted deadnettle,https://www.inaturalist.org/observations/117485518,https://inaturalist-open-data.s3.amazonaws.com/photos/198414275/medium.jpeg,davydovbotany,117485518,Gefleckte Taubnessel,Plantae,55828,2,0,2022/05/16 3:25 дня,2022-05-16,2022-05-16 12:25:00 UTC,Kyiv,4,4,,,false,,,1775236,Denis Davydov,2022-05-17 18:49:47 UTC,2022-05-19 09:43:43 UTC,research,CC-BY-NC,NA,NA,false,2022
+Lamium galeobdolon,2022-05-16 15:25:00 +0300,Community of Acer negundo L. near a pond,"Голосіївський район, Київ, Україна, 02000",50.335496019,30.4906950999,,yellow archangel,https://www.inaturalist.org/observations/117485516,https://inaturalist-open-data.s3.amazonaws.com/photos/198414244/medium.jpeg,davydovbotany,117485516,Gewöhnliche Goldnessel,Plantae,204339,2,0,2022/05/16 3:25 дня,2022-05-16,2022-05-16 12:25:00 UTC,Kyiv,4,4,,,false,,,1775236,Denis Davydov,2022-05-17 18:49:47 UTC,2022-05-19 09:43:49 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer negundo,2022-04-25 15:46:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Lago di Comabbio (Lombardia), 245m",Italy,45.6043323752,8.6866597529,Parco regionale della valle del Ticino,box elder,https://www.inaturalist.org/observations/113825588,https://inaturalist-open-data.s3.amazonaws.com/photos/192273207/medium.jpeg,alberto_colatore,113825588,Клён американский,Plantae,47726,1,0,2022/04/25 3:46 PM,2022-04-25,2022-04-25 13:46:00 UTC,Rome,10,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-04-30 15:21:49 UTC,2022-05-04 19:19:00 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer negundo,2022-04-25 15:23:00 +0200,"***Acer negundo*** **L.**
+*[Sapindaceae]*
+
+Lago di Comabbio (Lombardia), 245m",Italy,45.7356328576,8.7878009908,Parco regionale della valle del Ticino,box elder,https://www.inaturalist.org/observations/113820464,https://inaturalist-open-data.s3.amazonaws.com/photos/192260552/medium.jpeg,alberto_colatore,113820464,Клён американский,Plantae,47726,1,0,2022/04/25 3:23 PM,2022-04-25,2022-04-25 13:23:00 UTC,Rome,10,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-04-30 15:10:22 UTC,2022-05-04 19:18:58 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer negundo,2021-05-18 08:34:02 +0200,Negundo (Acer negundo L.),"17500 Ripoll, Girona, Espanya",42.1997688,2.1891105,,box elder,https://www.inaturalist.org/observations/79245197,https://static.inaturalist.org/photos/129783356/medium.jpeg,martina_puig,79245197,Negundo,Plantae,47726,2,0,2021-05-18 08:34:02,2021-05-18,2021-05-18 06:34:02 UTC,Madrid,2126,2126,,,false,,,4428630,Martina Puig,2021-05-18 06:34:55 UTC,2021-05-18 07:00:18 UTC,research,,NA,2,false,2021
+Acer negundo,2020-04-14 09:28:46 +0400,"Acer negundo L. (семейство Aceraceae)
+
+Клён американский
+
+","Самара, Самарская обл., Россия, 443112",53.3421735,50.2279313,,box elder,https://www.inaturalist.org/observations/51445679,https://static.inaturalist.org/photos/81738351/medium.jpg,naturalist38499,51445679,Клён американский,Plantae,47726,1,0,2020-04-14 9:28:46 AM GMT+04:00,2020-04-14,2020-04-14 05:28:46 UTC,Abu Dhabi,NA,NA,,,false,gps,gps,3253989,Анна Митрошенкова,2020-06-30 07:04:48 UTC,2021-08-06 12:19:39 UTC,research,CC-BY,NA,2,false,2020
+Acer negundo,2015-04-26 22:22:40 -0400,"Box elder | Box maple
+Acer negundo L. (Sapindaceae)
+Riverine woods, alt. 15m
+Jones Point, New York, USA",", New York, United States",41.288255,-73.95893,"box, elder, Sapindaceae, boxelder, maple, ash-leaved, ash, Manitoba, Bear, Mountain, elf, Acer negundo",box elder,https://www.inaturalist.org/observations/41880008,https://static.inaturalist.org/photos/66457419/medium.jpg,tammor,41880008,boxelder,Plantae,47726,2,0,2015-04-26 22:22:40,2015-04-26,2015-04-27 02:22:40 UTC,Eastern Time (US & Canada),NA,NA,,,false,,,2724050,Tammo Reichgelt,2020-04-11 03:19:05 UTC,2020-04-11 10:18:41 UTC,research,CC-BY-NC,NA,NA,false,2015
+Acer negundo,2020-04-07 14:19:08 -0400,"Box elder
+Acer negundo L. (Sapindaceae)
+Woods edge, alt. 5m
+Connecticut River, Connecticut, USA","South Windsor, Connecticut, United States",41.822198,-72.635185,"Box, elder, boxelder, maple, ash-leaved, ash, Connecticut, River, Sapindaceae, flowers, Linear, Park, South, Windsor, Acer negudo",box elder,https://www.inaturalist.org/observations/41679923,https://static.inaturalist.org/photos/66124638/medium.jpg,tammor,41679923,boxelder,Plantae,47726,1,0,2020-04-07 14:19:08,2020-04-07,2020-04-07 18:19:08 UTC,Eastern Time (US & Canada),NA,NA,,,false,,,2724050,Tammo Reichgelt,2020-04-08 12:56:24 UTC,2020-04-08 13:19:23 UTC,research,CC-BY-NC,NA,NA,false,2020
+Acer negundo,2017-09-08 17:56:31 -0400,"in fruit.
+8 September 2017
+Lost Lake Area
+Patapsco Valley SP
+Baltimore County
+Relay Quad
+s.n.",Lost Lake Area Patapsco Valley SP,39.230109,-76.729264,Acer negundo L. - Boxelder,box elder,https://www.inaturalist.org/observations/13596300,https://static.inaturalist.org/photos/20001383/medium.jpg,urban_botanist,13596300,boxelder maple,Plantae,47726,2,0,2017-09-08 17:56:31,2017-09-08,2017-09-08 21:56:31 UTC,Eastern Time (US & Canada),31,31,,open,false,,manual,43448,Bill Harms,2018-06-20 00:42:36 UTC,2022-12-01 03:35:29 UTC,research,CC-BY-NC,NA,NA,false,2017
+Acer negundo,2016-01-15 00:00:00 -0800,"Kingdom: Plantae
+Class: Magnoliopsida
+Order: Sapindales
+Family: Aceraceae
+Genus: Acer L.
+Species: Acer Negundo 
+
+The Box Elder is a maple tree that grows from 10-25m. Its bark is rough on the stem, but smooth on the branches. Its bark is a light green color. The flowers appear in early spring on drooping racemes. The fruits on his tree are samaras which contain seeds. This species loses its leaves in the fall and winter months. ",University of Lethbridge,49.679157,-112.863463,,box elder,http://www.inaturalist.org/observations/2613136,https://inaturalist-open-data.s3.amazonaws.com/photos/2922341/medium.JPG,bio5moos,2613136,boxelder,Plantae,47726,1,0,2016-01-15,2016-01-15,,Pacific Time (US & Canada),NA,NA,,open,false,,,169431,Mackenzie Moos,2016-01-24 19:16:04 UTC,2020-05-21 03:31:30 UTC,research,CC-BY-NC,NA,NA,false,2016
+Acer pseudoplatanus,2022-12-12 12:33:00 +0100,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Cuirone (Lombardia), 360m",Italy,45.65599775,8.6584410058,Parco regionale della valle del Ticino,sycamore maple,https://www.inaturalist.org/observations/144353786,https://inaturalist-open-data.s3.amazonaws.com/photos/247737899/medium.jpeg,alberto_colatore,144353786,sycamore maple,Plantae,119791,2,0,2022/12/12 12:33,2022-12-12,2022-12-12 11:33:00 UTC,Rome,25,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-12-14 11:32:34 UTC,2023-02-27 23:35:57 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer pseudoplatanus,2022-12-10 12:10:00 +0100,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Cuirone (Lombardia), 340m",Italy,45.759249884,8.7933342301,Parco regionale della valle del Ticino,sycamore maple,https://www.inaturalist.org/observations/144351550,https://inaturalist-open-data.s3.amazonaws.com/photos/247733634/medium.jpeg,alberto_colatore,144351550,sycamore maple,Plantae,119791,2,0,2022/12/10 12:10,2022-12-10,2022-12-10 11:10:00 UTC,Rome,25,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-12-14 10:14:18 UTC,2023-01-05 02:47:11 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer pseudoplatanus,2022-12-06 16:31:00 +0100,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Cuirone (Lombardia), 425m",Italy,45.7190726436,8.7685035152,Parco regionale della valle del Ticino,sycamore maple,https://www.inaturalist.org/observations/144036505,https://inaturalist-open-data.s3.amazonaws.com/photos/247131896/medium.jpeg,alberto_colatore,144036505,Bergahorn,Plantae,119791,2,0,2022/12/06 16:31,2022-12-06,2022-12-06 15:31:00 UTC,Rome,25,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-12-09 23:37:55 UTC,2023-01-05 02:48:36 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer pseudoplatanus,2022-12-06 16:06:00 +0100,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Cuirone (Lombardia), 425m",Italy,45.6736822116,8.7182966579,Parco regionale della valle del Ticino,sycamore maple,https://www.inaturalist.org/observations/144032503,https://inaturalist-open-data.s3.amazonaws.com/photos/247123878/medium.jpeg,alberto_colatore,144032503,Bergahorn,Plantae,119791,2,0,2022/12/06 16:06,2022-12-06,2022-12-06 15:06:00 UTC,Rome,25,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-12-09 22:21:39 UTC,2023-01-05 02:49:01 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer pseudoplatanus,2022-09-10 08:56:00 +0200,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Valle Soana (Piemonte), 1360m","Piemonte, IT",45.5754958692,7.5078877618,Parco nazionale del Gran Paradiso,sycamore maple,https://www.inaturalist.org/observations/136484330,https://inaturalist-open-data.s3.amazonaws.com/photos/232939942/medium.jpeg,alberto_colatore,136484330,sycamore maple,Plantae,119791,1,0,2022/09/10 08:56,2022-09-10,2022-09-10 06:56:00 UTC,Rome,10,27158,obscured,open,true,,,4483817,Alberto Colatore,2022-09-25 20:31:53 UTC,2022-11-16 10:14:15 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer pseudoplatanus,2022-08-09 11:31:00 +0200,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Valsavarenche (Valle d'Aosta), 1670m",Italy,45.5044837311,7.2189913076,Parco nazionale del Gran Paradiso,sycamore maple,https://www.inaturalist.org/observations/133016442,https://inaturalist-open-data.s3.amazonaws.com/photos/226509338/medium.jpeg,alberto_colatore,133016442,sycamore maple,Plantae,119791,1,0,2022/08/09 11:31,2022-08-09,2022-08-09 09:31:00 UTC,Rome,10,27158,obscured,open,true,,,4483817,Alberto Colatore,2022-08-30 23:21:46 UTC,2022-12-23 10:52:48 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer pseudoplatanus,2022-07-29 16:54:40 +0200,"*Acer pseudoplatanus* L.
+
+Sapindaceae
+P scap
+Europ.-Caucas.
+Status: autoctona 
+
+Altitudine: 768 m
+Habitat: fessura della strada
+
+Note: *A. pseudoplataus* è un albero dal portamento maestoso. Vegeta nelle zone collinari e montane, nella fascia del castagno e del faggio, spesso consociato anche a querce caducifoglie e abete bianco. 
+È un acero dal rapido accrescimento, molto resistente alla ceduazione e moderatamente tollerante alla siccità. Le giovani piante sono sciafile. Può raggiungere anche i 30 m di altezza. 
+È considerato una specie invasiva in USA, Canada e Nuova Zelanda.",Provincia di Catanzaro,38.8899333965,16.440587081,,sycamore maple,https://www.inaturalist.org/observations/128774048,https://static.inaturalist.org/photos/218762315/medium.jpeg,albertocapuano,128774048,Hegyi juhar,Plantae,119791,2,0,2022-07-29 16:54:40,2022-07-29,2022-07-29 14:54:40 UTC,Rome,53533,53533,,open,false,,,5829267,Alberto Capuano,2022-07-31 11:01:36 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false,2022
+Acer pseudoplatanus,2022-04-23 16:19:00 +0200,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Corgeno (Lombardia), 250m",Italy,45.6897194607,8.6127651175,Parco regionale della valle del Ticino,sycamore maple,https://www.inaturalist.org/observations/113354938,https://inaturalist-open-data.s3.amazonaws.com/photos/191530417/medium.jpeg,alberto_colatore,113354938,sycamore maple,Plantae,119791,1,0,2022/04/23 4:19 PM,2022-04-23,2022-04-23 14:19:00 UTC,Rome,10,27126,obscured,open,true,,,4483817,Alberto Colatore,2022-04-29 10:15:32 UTC,2022-06-01 08:37:59 UTC,research,CC-BY-NC,NA,NA,false,2022
+Acer pseudoplatanus,2021-08-05 10:16:00 +0200,"***Acer pseudoplatanus*** **L.**
+*[Sapindaceae]*
+
+Valsavarenche (Valle d'Aosta), 1670m",Italy,45.5710749563,7.2730660464,Parco nazionale del Gran Paradiso,sycamore maple,https://www.inaturalist.org/observations/92040990,https://static.inaturalist.org/photos/152311088/medium.jpeg,alberto_colatore,92040990,Acero Montano,Plantae,119791,1,0,2021/08/05 10:16 AM CEST,2021-08-05,2021-08-05 08:16:00 UTC,Rome,10,27158,obscured,open,true,,,4483817,Alberto Colatore,2021-08-22 00:35:05 UTC,2022-08-26 10:34:15 UTC,research,CC-BY-NC,NA,NA,false,2021
+Acer pseudoplatanus,2020-08-02 18:37:11 +0200,"Klon jawor, jawor, klon jaworowy (Acer pseudoplatanus L.) – gatunek drzewa z rodziny mydleńcowatych (Sapindaceae). Występuje naturalnie w środkowej Europie i północnym Kaukazie, poza tym zawleczony.","Poniatowskiego, Rabka-Zdrój, Małopolskie, PL",49.61108833,19.97903667,,sycamore maple,https://www.inaturalist.org/observations/55202923,https://static.inaturalist.org/photos/87883539/medium.jpg,arthurobservation,55202923,sycamore maple,Plantae,119791,1,0,Sun Aug 02 2020 18:37:11 GMT+0200 (GMT+2),2020-08-02,2020-08-02 16:37:11 UTC,Africa/Johannesburg,5,5,,,false,,,3400930,Arthur Słoński,2020-08-02 20:49:47 UTC,2020-08-03 08:35:36 UTC,research,,NA,3,false,2020
+Acer pseudoplatanus,2018-06-23 00:00:00 +0100,"<i>Coleophora</i> sp., larval case on <i>Acer pseudoplatanus</i> L., Utterslev Mose, Søborg, Denmark, 22-23 June 2018","Gladsaxe, Hovedstaden, Denmark",55.7217582078,12.4982330203,"2018, Acer pseudoplatanus, Coleophora, Coleophoridae, Coleophorinae, Denmark, Europe, June, Lepidoptera, Søborg, Utterslev Mose",sycamore maple,https://www.inaturalist.org/observations/13764534,https://inaturalist-open-data.s3.amazonaws.com/photos/20293084/medium.jpg,dhobern,13764534,Acer pseudoplatanus,Plantae,119791,1,0,2018-06-23,2018-06-23,,Copenhagen,NA,NA,,,false,,,4859,Donald Hobern,2018-06-25 05:56:46 UTC,2018-06-25 18:05:20 UTC,research,CC0,NA,NA,false,2018
+Agave americana,2022-04-26 14:07:00 +0100,"Agave americana L. 
+LC
+
+Agave","Castro Marim, Faro, Portugal",37.229415,-7.4253983333,"Flowers, Portugal",American century plant,https://www.inaturalist.org/observations/113061846,https://inaturalist-open-data.s3.amazonaws.com/photos/191026097/medium.jpeg,steve_orridge,113061846,American century plant,Plantae,64103,2,0,2022/04/26 2:07 PM,2022-04-26,2022-04-26 13:07:00 UTC,Lisbon,NA,NA,,open,false,NA,NA,2640746,,2022-04-27 06:07:49 UTC,2023-03-25 09:29:28 UTC,research,CC-BY,NA,NA,false,2022
+Agave americana,2009-08-03 15:03:00 +0100,"***Agave americana*** **L.**
+*[Asparagaceae]*
+
+Ponta de São Lourenço (Madeira), 100m","Madeira, PT",32.7130702397,-16.6865686965,Parque natural da Madeira,American century plant,https://www.inaturalist.org/observations/82037873,https://inaturalist-open-data.s3.amazonaws.com/photos/134609400/medium.jpeg,alberto_colatore,82037873,Agave americana,Plantae,64103,2,0,2009/08/03 3:03 PM CEST,2009-08-03,2009-08-03 14:03:00 UTC,Atlantic/Madeira,25,29066,obscured,open,true,NA,NA,4483817,Alberto Colatore,2021-06-07 16:04:49 UTC,2023-01-03 00:01:09 UTC,research,CC-BY-NC,NA,NA,false,2009
+Ailanthus altissima,2022-09-18 14:02:00 +0200,"***Ailanthus altissima*** **(Miller) Swingle**
+*[Simaroubaceae]*
+
+Tornavento (Lombardia), 160m",Italy,45.7679066364,8.7664893385,Parco regionale della valle del Ticino,tree-of-heaven,https://www.inaturalist.org/observations/137654296,https://inaturalist-open-data.s3.amazonaws.com/photos/235137825/medium.jpeg,alberto_colatore,137654296,Albero del Paradiso,Plantae,57278,1,0,2022/09/18 14:02,2022-09-18,2022-09-18 12:02:00 UTC,Rome,25,27126,obscured,,true,NA,,4483817,Alberto Colatore,2022-10-05 17:16:39 UTC,2022-10-05 17:33:43 UTC,research,CC-BY-NC,NA,NA,false,2022
+Ailanthus altissima,2022-09-29 14:23:00 -0400,Ailanthus altissima (Mill.) Swingle.,"College Hill, Cincinnati, OH, USA",39.1855397519,-84.556477091,"Tanglewood Preserve, Ohio, Hamilton County",tree-of-heaven,https://www.inaturalist.org/observations/136967713,https://inaturalist-open-data.s3.amazonaws.com/photos/233841786/medium.jpg,spelikan,136967713,tree-of-heaven,Plantae,57278,1,0,2022/09/29 2:23 PM,2022-09-29,2022-09-29 18:23:00 UTC,Eastern Time (US & Canada),189,189,,,false,NA,,1054371,Steve Pelikan,2022-09-29 22:35:13 UTC,2022-09-30 00:21:39 UTC,research,CC-BY-NC,NA,NA,false,2022
+Ailanthus altissima,2022-08-23 09:23:00 +0200,"***Ailanthus altissima*** **(Miller) Swingle**
+*[Simaroubaceae]*
+
+Candelo (Piemonte), 290m","Piemonte, IT",45.4947792062,8.1909678582,,tree-of-heaven,https://www.inaturalist.org/observations/135426823,https://inaturalist-open-data.s3.amazonaws.com/photos/230973487/medium.jpeg,alberto_colatore,135426823,Götterbaum,Plantae,57278,1,0,2022/08/23 09:23,2022-08-23,2022-08-23 07:23:00 UTC,Rome,50,27158,obscured,,true,NA,,4483817,Alberto Colatore,2022-09-17 20:29:44 UTC,2022-09-18 05:27:54 UTC,research,CC-BY-NC,NA,NA,false,2022
+Ailanthus altissima,2022-07-10 15:04:11 +0200,"*Ailanthus altissima* (Mill.) Swingle
+",Catanzaro,38.9099216796,16.5876515955,,tree-of-heaven,https://www.inaturalist.org/observations/125748770,https://static.inaturalist.org/photos/213284809/medium.jpeg,albertocapuano,125748770,Ailanthus altissima,Plantae,57278,1,0,2022-07-10 15:04:11,2022-07-10,2022-07-10 13:04:11 UTC,Rome,6885,6885,,,false,NA,,5829267,Alberto Capuano,2022-07-11 07:24:32 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false,2022
+Ailanthus altissima,2021-07-25 10:59:00 +0200,"***Ailanthus altissima*** **(Miller) Swingle**
+*[Simaroubaceae]*
+
+Castello Cabiaglio (Lombardia), 500m","Lombardia, IT",45.8449993967,8.6793777125,Parco regionale Campo dei Fiori,tree-of-heaven,https://www.inaturalist.org/observations/88750225,https://static.inaturalist.org/photos/146472206/medium.jpeg,alberto_colatore,88750225,Albero del Paradiso,Plantae,57278,1,0,2021/07/25 10:59 AM CEST,2021-07-25,2021-07-25 08:59:00 UTC,Paris,10,27095,obscured,,true,NA,,4483817,Alberto Colatore,2021-07-26 22:35:59 UTC,2023-04-03 07:00:41 UTC,research,CC-BY-NC,NA,NA,false,2021
+Rhus typhina,2017-08-09 12:02:16 -0400,"Leaves.
+9 August 2017
+Patuxent River SP--Annapolis Rock Road
+Montgomery County
+Damascus Quad
+s.n.",Annapolis Rock Road,39.276933,-77.136111,Ailanthus altissima (Mill.) Swingle - Tree of Heaven,staghorn sumac,https://www.inaturalist.org/observations/13625185,https://static.inaturalist.org/photos/20052975/medium.jpg,urban_botanist,13625185,staghorn sumac,Plantae,167829,3,1,2017-08-09 12:02:16,2017-08-09,2017-08-09 16:02:16 UTC,Eastern Time (US & Canada),761,761,,open,false,NA,manual,43448,Bill Harms,2018-06-21 00:13:53 UTC,2022-11-23 07:06:14 UTC,research,CC-BY-NC,NA,NA,false,2017
+Jacquemontia tamnifolia,2020-10-24 10:39:00 -0500,Albizia julibrissin Durazz.  and Senna obtusifolia (L.) Irwin & Barneby growing with this species in gravelbar.,"Bloucher Ford Nature Preserve - Land Trust of North Alabama, New Market, AL 35761, USA",34.8740839167,-86.4743156111,,Hairy cluster-vine,https://www.inaturalist.org/observations/70004060,https://inaturalist-open-data.s3.amazonaws.com/photos/113714450/medium.jpg,lweninegar,70004060,Jacquemontia tamnifolia,Plantae,164215,1,0,2020/10/24 10:39 AM CDT,2020-10-24,2020-10-24 15:39:00 UTC,Central Time (US & Canada),NA,NA,NA,NA,false,NA,,294845,Loretta Lynne Weninegar,2021-02-22 20:54:41 UTC,2021-11-01 01:50:01 UTC,research,,NA,NA,false,2020
+Albizia julibrissin,2017-06-21 13:33:51 -0400,"in bloom.
+21 June 2017
+Bauman Drive
+Elkridge
+Howard County
+Relay Quad
+s.n.","Bauman Drive, Elkridge, MD, USA",39.208948,-76.743238,Albizia julibrissin Durazz. - Silk Tree,Persian silk tree,https://www.inaturalist.org/observations/13689500,https://static.inaturalist.org/photos/20163751/medium.jpg,urban_botanist,13689500,Persian silk tree,Plantae,47443,1,0,2017-06-21 13:33:51,2017-06-21,2017-06-21 17:33:51 UTC,Eastern Time (US & Canada),568,568,NA,NA,false,NA,google,43448,Bill Harms,2018-06-23 02:48:08 UTC,2022-01-13 21:06:36 UTC,research,CC-BY-NC,NA,NA,false,2017
+Albizia julibrissin,2016-06-26 00:00:00 -0600,"Mimosa (Albizia julibrissin)
+
+26 June 2016 
+Lyndon B. Johnson National Grassland 
+County Road 2560 & Forest Service Road 900 
+Wise County, Texas
+
+A single Mimosa tree that had been heavily pruned at some point was making a comeback and its canopy was ablaze in its bright pink and white flowers. From Pennsylvania and Massachusetts on the East Coast of the United States to California on the West Coast, Mimosa makes its presence known as an introduced species. It is not found in Canada, even as an introduced species according to the range map of the Plants Database. But though not indicated it is certainly found in Mexico and perhaps farther south in the Americas. Additional common names for this tree include Persian Silk Tree and Pink Silk Tree. It is a tree that's native to ""southwestern and eastern Asia,"" according to its Wikipedia entry. The Lyndon B. Johnson National Grassland is administered by the US Forest Service, US Department of Agriculture.
+
+Sources:
+
+""Albizia julibrissin,"" Wikipedia, description, photographs, bibliography, accessed 6.30.16, https://en.wikipedia.org/wiki/Albizia_julibrissin
+
+""Albizia julibrissin Durazz. - Silktree,"" Plants Database, US Department of Agriculture, Natural Resources Conservation Service, range map, photographs, description, classification, resources, accessed 6.30.16, http://plants.usda.gov/core/profile?symbol=alju","Cottonwood Lake, Lyndon B. Johnson National Grassland, County Road 2560, Wise County, Texas",33.384074,-97.556654,"Mimosa (Albizia julibrissin), Cottonwood Lake, Lyndon B. Johnson National Grassland, County Road 2560, Wise County, Texas, Mimosa, introduced, North Texas, North America, Western Hemisphere, Plants Database, US Department of Agriculture, Natural Resources Conservation Service, Wikipedia",Persian silk tree,http://www.inaturalist.org/observations/3577191,https://inaturalist-open-data.s3.amazonaws.com/photos/4149424/medium.jpg,aguilita,3577191,Persian Silk Tree,Plantae,47443,2,0,2016-06-26,2016-06-26,,Central Time (US & Canada),137,137,NA,NA,false,NA,,115129,Roberto R. Calderón,2016-07-01 05:48:29 UTC,2017-09-26 11:57:15 UTC,research,CC-BY-NC,NA,NA,false,2016
+Allium triquetrum,2015-11-02 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, suburb of Henderson, Opanuku Walkway at Henderson Park/Shona Esplanade Reserve.
+
+<em>Habitat: A few plants growing on the side of the track.
+
+<em>Identification: </em>Allium triquetrum<em> L., 1753.","Henderson Park/Shona Esplanade Reserve, suburb of Henderson, Auckland",-36.880543,174.621793,November flowers,Three-cornered garlic,http://naturewatch.org.nz/observations/2339696,https://inaturalist-open-data.s3.amazonaws.com/photos/2596450/medium.jpg,stephen_thorpe,2339696,Three-cornered garlic,Plantae,55505,2,0,2015-11-02,2015-11-02,NA,Auckland,7,7,NA,NA,false,NA,NA,15329,Stephen Thorpe,2015-11-01 20:08:52 UTC,2020-01-29 02:25:42 UTC,research,CC-BY-NC,NA,NA,false,2015
+Alyssum alyssoides,2018-07-06 16:01:33 +0400,https://old.observation.org/waarneming/view/159566648 Bleek schildzaad - Alyssum alyssoides (L.) L.,"Armenië, , Armenië, AM",41.0765111667,43.8056716667,NA,Small Alison,https://www.inaturalist.org/observations/14113435,https://inaturalist-open-data.s3.amazonaws.com/photos/20904086/medium.jpg,ahospers,14113435,Small Alison,Plantae,75388,1,0,Fri Jul 06 2018 16:01:33 GMT+0400 (GMT+4),2018-07-06,2018-07-06 12:01:33 UTC,Abu Dhabi,NA,NA,NA,NA,false,NA,NA,18823,Andre Hosper,2018-07-06 20:40:30 UTC,2019-11-22 16:46:43 UTC,research,CC-BY-NC,NA,3,false,2018
+Amaranthus retroflexus,2022-09-18 11:23:00 +0200,"***Amaranthus retroflexus*** **L.**
+*[Amaranthaceae]*
+
+Tornavento (Lombardia), 155m",Italy,45.5514010782,8.6916931736,Parco regionale della valle del Ticino,Redroot Amaranth,https://www.inaturalist.org/observations/137583072,https://inaturalist-open-data.s3.amazonaws.com/photos/234996987/medium.jpeg,alberto_colatore,137583072,Redroot Amaranth,Plantae,58776,1,0,2022/09/18 11:23,2022-09-18,2022-09-18 09:23:00 UTC,Rome,25,27158,obscured,NA,true,,,4483817,Alberto Colatore,2022-10-04 23:52:23 UTC,2022-11-04 09:00:13 UTC,research,CC-BY-NC,NA,NA,false,2022
+Amaranthus retroflexus,2022-09-12 15:47:04 +0200,"*Amaranthus retroflexus* L.
+
+Amaranthaceae
+T scap
+Cosmop. / N-Americ.
+Status: esotica (neofita invasiva) 🔺️🔺️ 
+
+Altitudine: 364 m
+Habitat: bordo strada ",Catanzaro,38.9099216796,16.5876515955,,Redroot Amaranth,https://www.inaturalist.org/observations/134760792,https://static.inaturalist.org/photos/229757428/medium.jpeg,albertocapuano,134760792,Amaranto comune,Plantae,58776,1,0,2022-09-12 15:47:04,2022-09-12,2022-09-12 13:47:04 UTC,Rome,6916,6916,,NA,false,gps,gps,5829267,Alberto Capuano,2022-09-12 18:32:57 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false,2022
+Setaria viridis,2021-10-02 13:25:00 -0600,"Field notes:
+State and county of collection	Boulder County, Colorado
+Brief description of plant	Grass with panicles of spikes at stem apex or axilla with many spikelets.
+Plant size	Mature plants average 5-10 dm tall.
+Habit	Herbaceous, caulescent. 
+Perianth color	Green
+Local abundance of this species	Abundant
+Specific locality description Louisville, CO 80027 – Back Yard.  50 meters Northeast of Via Apia and Pine Street intersection.
+Brief description of plant community at this location and/or associated species (if known)	Disturbed plant community: Cirsium arvense, Sonchus oleraceus, Amaranthus retroflexus, Malva neglecta, Chenopodium album, Digitaria sanguialis
+Slope (gradual/steep/flat) and aspect (N, S, E, W)	Slope: 5-10 deg, South facing
+Substrate/soil type	Thoroughly composted wood chips mixed with some native soil (clay/silt.); Not irrigated, but upslope turf area is irrigated.
+Latitude/longitude (in decimal degrees, to at least 4 decimal places, or degrees-minutes-seconds)	Latitude: 39° 58’ 39.732” N
+Longitude: 105° 9’ 14.43” W
+
+Elevation (in meters or feet)	Altitude: 1,692.5 m (5,552.81 ft)
+Date of collection	20211005
+Collector(s)	Jim Good
+Collection number	005
+
+Key Out (per Flora of Colorado, 1st Edition, 2015):
+Poaceae (p. 600): 1b, 3b, 4b, 6b, 7b, 8b, 10b, 11b, 12b, 13b, 14b,15a, 16b -> Setaria
+Setaria (p. 662): 1b, 2b, 3b, 4b -> Setaria viridis (L.) Beauv. var. viridis
+ 
+","Louisville, CO, USA",39.9777638889,-105.1541138889,,Green Bristle Grass,https://www.inaturalist.org/observations/97323751,https://inaturalist-open-data.s3.amazonaws.com/photos/161840034/medium.jpeg,jegood,97323751,Green Bristle Grass,Plantae,79070,1,0,2021/10/02 1:25 PM MDT,2021-10-02,2021-10-02 19:25:00 UTC,Mountain Time (US & Canada),4,4,,NA,false,,,4936055,Jim Good,2021-10-06 06:46:38 UTC,2021-11-07 01:54:46 UTC,research,CC-BY-NC,NA,NA,false,2021
+Cirsium arvense,2021-09-18 17:32:00 -0600,"Field notes:
+State and county of collection	Boulder County, Colorado
+Brief description of plant	Thistle with purple flowers
+Plant size	Mature plants average 3-7 dm tall
+Habit	Herbaceous, caulescent.  
+Perianth color	Purple
+Local abundance of this species	Abundant
+Specific locality description Louisville, CO 80027 – Back Yard.  50 meters Northeast of Via Apia and Pine Street intersection.
+Brief description of plant community at this location and/or associated species (if known)	Disturbed plant community: Malva neglecta, Sonchus oleraceus, Amaranthus retroflexus, Setaria viridis, Chenopodium album, Digitaria sanguialis
+Slope (gradual/steep/flat) and aspect (N, S, E, W)	Slope: 5-10 deg, South facing
+Substrate/soil type	Thoroughly composted wood chips mixed with some native soil (clay/silt.); Not irrigated, but upslope turf area is irrigated.
+Latitude/longitude (in decimal degrees, to at least 4 decimal places, or degrees-minutes-seconds)	Latitude: 39° 58’ 39.732” N
+Longitude: 105° 9’ 14.43” W
+
+Elevation (in meters or feet)	Altitude: 1,692.5 m (5,552.81 ft)
+Date of collection	20210918
+Collector(s)	Jim Good
+Collection number	002
+
+Key Out (per Flora of Colorado, 1st Edition, 2015):
+Asteraceae (P. 96): 1b, 2a, 3a -> Key 2 
+Key 2 (P. 98): 1a, 2b, 3a -> Cirsium
+Cirsium (P. 132): 1a –> Cirsium arvense (L.) Scop.
+
+
+Update:  Flower Dissection Results.  Specimen preserved in alcohol for approximately 6 weeks.  Inflorescence - capitulum 20 mm high, 15 mm in diameter. Involucre 13 mm high, 7 mm in diameter with some outside bracts terminating in 1 mm spikes pointed out.  All disk flowers, many, originally purple (now washed out).  Florets 15 mm long with 10 mm pappus. Corolla gamopetalous terminating in 5 each 5 mm limbs. Stamen connate or coherent forming a tube then separating into 5 distinct anthers. I believe I see pollen on the anthers and stigma.  One style terminating into a bilobed stigma.  One achene (ovary), 2 mm,  that appears empty. Since the androecium appears fully developed and functional, and I could find no locules, placentae, or ovules, I’d say this is a male flower.  
+","Louisville, CO, USA",39.9774666667,-105.1538,,creeping thistle,https://www.inaturalist.org/observations/97322824,https://inaturalist-open-data.s3.amazonaws.com/photos/161838081/medium.jpeg,jegood,97322824,Creeping Thistle,Plantae,60132,1,0,2021/09/18 5:32 PM MDT,2021-09-18,2021-09-18 23:32:00 UTC,Mountain Time (US & Canada),9,9,,NA,false,,,4936055,Jim Good,2021-10-06 06:19:04 UTC,2021-11-06 21:03:56 UTC,research,CC-BY-NC,NA,NA,false,2021
+Amaranthus retroflexus,2020-07-10 08:19:01 +0400,"Amaranthus retroflexus L. (семейство Amaranthaceae)
+
+Щирица запрокинутая
+
+","Серноводск, Самарская обл., Россия, 446533",53.9157814,51.2563209997,,Redroot Amaranth,https://www.inaturalist.org/observations/52669411,https://static.inaturalist.org/photos/83742450/medium.jpeg,naturalist38499,52669411,Redroot Pigweed,Plantae,58776,1,0,2020-07-10 8:19:01 AM GMT+04:00,2020-07-10,2020-07-10 04:19:01 UTC,Abu Dhabi,NA,NA,,NA,false,gps,gps,3253989,Анна Митрошенкова,2020-07-11 12:44:31 UTC,2021-08-06 12:19:39 UTC,research,CC-BY,NA,2,false,2020
+Amaranthus retroflexus,2019-08-03 11:16:00 +0300,"pict=2019-07-26_11-16-41-.jpg
+pict=2019-07-26_11-16-45-.jpg
+name=Щирицевые
+name=Амарантовые
+name=Amaranthaceae
+name=Amaranthus retroflexus L.
+name=Amaranthus retroflexus
+date=2019-07-26
+loca=Москва
+loca=Хорошёво-Мнёвники
+loca=У станции МЦК Зорге
+habi=Пустырь
+glob=55.7885742;37.5017319;
+pers=Лапин А.А.
+","Северо-Западный административный округ, Москва, Россия",55.7885665833,37.5017433056,,Redroot Amaranth,https://www.inaturalist.org/observations/33021694,https://inaturalist-open-data.s3.amazonaws.com/photos/51830321/medium.jpg,a-lapin,33021694,Щирица запрокинутая,Plantae,58776,2,0,2019/08/03 11:16 AM MSK,2019-08-03,2019-08-03 08:16:00 UTC,Moscow,NA,NA,,NA,false,,,1425616,Алексей Лапин,2019-09-19 18:32:23 UTC,2019-09-19 21:29:13 UTC,research,CC-BY-NC,NA,NA,false,2019
+Amaryllis belladonna,2022-09-18 16:28:16 +0200,"*Amaryllis belladonna* L.
+
+Amaryllidaceae
+G bulb
+S-Afric.
+Status: esotica (neofita naturalizzata) 🔺️ 
+
+Altitudine: 340 m
+Habitat: al margine di una formazione ad *Arundo plinii* e *Ampelodesmos mauritanicus*, presso la strada",Catanzaro,38.9099216796,16.5876515955,NA,Belladonna Lily,https://www.inaturalist.org/observations/135540609,https://static.inaturalist.org/photos/231195590/medium.jpeg,albertocapuano,135540609,Amaryllis belladonna,Plantae,61827,1,0,2022-09-18 16:28:16,2022-09-18,2022-09-18 14:28:16 UTC,Rome,6916,6916,NA,NA,false,gps,gps,5829267,Alberto Capuano,2022-09-18 16:52:25 UTC,2023-03-27 00:17:17 UTC,research,NA,NA,2,false,2022
+Ammi majus,2016-03-26 15:38:52 +0300,Native species to Saudi Arabia,"Ḩaḑram, , Saudi Arabia",20.31082,41.194288,"#Flora_of_The_Arabian_Peninsula_and_Socotra, #Flora_of_Saudi_Arabia, #Saudi_Biodiversity, Ammi majus L.",Bullwort,https://www.inaturalist.org/observations/107488856,https://inaturalist-open-data.s3.amazonaws.com/photos/180793412/medium.jpg,saudibotanist,107488856,ammi élevé,Plantae,75417,1,0,2016-03-26 15:38:52,2016-03-26,2016-03-26 12:38:52 UTC,Riyadh,NA,NA,NA,NA,false,NA,NA,11338,Ali Mohammed Alzahrani,2022-02-26 17:22:49 UTC,2022-06-12 00:44:51 UTC,research,CC-BY-NC,NA,NA,false,2016
+Ammophila arenaria,2023-04-02 11:29:06 +0200,*Ammophila arenaria* (L.) Link subsp. *australis* (Mabille) Laínz,"Calabria, IT",38.4088449271,16.5990517736,NA,European marram grass,https://www.inaturalist.org/observations/153325105,https://static.inaturalist.org/photos/264804756/medium.jpeg,albertocapuano,153325105,Ammofila arenaria,Plantae,61055,1,0,2023-04-02 11:29:06,2023-04-02,2023-04-02 09:29:06 UTC,Rome,134,28240,obscured,NA,true,gps,gps,5829267,Alberto Capuano,2023-04-03 14:34:20 UTC,2023-04-07 11:13:51 UTC,research,NA,NA,2,false,2023
+Amorpha fruticosa,2022-09-12 18:03:42 +0200,"*Amorpha fruticosa* L.
+
+Fabaceae
+P caesp
+N-Americ.
+Status: esotica (neofita invasiva) 🔺️🔺️ 
+
+Altitudine: 30 m ca.
+Habitat: muro ",Reggio Calabria,38.1115084059,15.6472912431,,false indigo bush,https://www.inaturalist.org/observations/134758477,https://static.inaturalist.org/photos/229752896/medium.jpeg,albertocapuano,134758477,desert false indigo,Plantae,57356,1,0,2022-09-12 18:03:42,2022-09-12,2022-09-12 16:03:42 UTC,Rome,11849,11849,,NA,false,gps,gps,5829267,Alberto Capuano,2022-09-12 18:14:27 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false,2022
+Cirsium vulgare,2022-08-07 07:55:00 +0300,In shrubs of Amorpha fruticosa L.,"Пирогів, Київ, Україна, 02000",50.34878868,30.512491426,,Bull Thistle,https://www.inaturalist.org/observations/130268491,https://inaturalist-open-data.s3.amazonaws.com/photos/221508205/medium.jpeg,davydovbotany,130268491,Bull Thistle,Plantae,52989,1,0,2022/08/07 07:55,2022-08-07,2022-08-07 04:55:00 UTC,Kyiv,15,15,,NA,false,,,1775236,Denis Davydov,2022-08-10 17:41:46 UTC,2022-08-10 18:11:27 UTC,research,CC-BY-NC,NA,NA,false,2022
+Vicia cracca,2022-08-05 12:16:00 +0300,In shrubs of Amorpha fruticosa L.,"Пирогів, Київ, Україна, 02000",50.3487513966,30.5124377842,,tufted vetch,https://www.inaturalist.org/observations/129694307,https://inaturalist-open-data.s3.amazonaws.com/photos/220438208/medium.jpeg,davydovbotany,129694307,tufted vetch,Plantae,52471,1,0,2022/08/05 12:16,2022-08-05,2022-08-05 09:16:00 UTC,Kyiv,15,15,,NA,false,,,1775236,Denis Davydov,2022-08-06 16:30:03 UTC,2022-08-07 04:43:07 UTC,research,CC-BY-NC,NA,NA,false,2022
+Amorpha fruticosa,2017-06-24 20:20:00 +0300,"Amorpha fruticosa L. (ÃivitaÄacÄ±, YalancÄ± Ãivit) (Desert False Indigo) T.B.+","Ordu, Altınordu/Ordu, Türkiye",40.9773538575,37.9291594766,"Fabacea (Baklagiller), Türkiye Bitkileri, Fabacea-Amorpha (Baklagiller)",false indigo bush,https://www.inaturalist.org/observations/87293184,https://inaturalist-open-data.s3.amazonaws.com/photos/143889811/medium.jpeg,ahmet_gungor,87293184,desert false indigo,Plantae,57356,1,0,2017/06/24 8:20 PM MSK,2017-06-24,2017-06-24 17:20:00 UTC,Moscow,13177,13177,,NA,false,,,3952677,Ahmet Güngör,2021-07-16 17:35:31 UTC,2021-09-02 04:22:19 UTC,research,CC-BY-NC,NA,NA,false,2017
+Amorpha fruticosa,2018-05-20 11:44:00 +0200,"***Amorpha fruticosa*** **L.**
+*[Fabaceae]*
+
+Mantova (Lombardia), 15m","Mantua, Lombardia, IT",45.0394394028,10.8766562728,Parco regionale del Mincio,false indigo bush,https://www.inaturalist.org/observations/82978115,https://inaturalist-open-data.s3.amazonaws.com/photos/136239457/medium.jpeg,alberto_colatore,82978115,Amorfa Fruticosa,Plantae,57356,1,0,2018/05/20 11:44 AM CEST,2018-05-20,2018-05-20 09:44:00 UTC,Paris,50,27222,obscured,NA,true,,,4483817,Alberto Colatore,2021-06-14 10:12:36 UTC,2022-03-02 17:43:25 UTC,research,CC-BY-NC,NA,NA,false,2018
+Amorpha fruticosa,2017-08-24 14:02:06 -0400,"in bloom and fruit.
+24 August 2017
+Cherry Hill Park
+Baltimore City
+s.n.
+planted, persisting, and possibly spreading.","Cherry Hill Park, Baltimore",39.245369,-76.615999,Amorpha fruticosa L. - false indigo bush,false indigo bush,https://www.inaturalist.org/observations/13625165,https://static.inaturalist.org/photos/20052948/medium.jpg,urban_botanist,13625165,desert false indigo,Plantae,57356,2,0,2017-08-24 14:02:06,2017-08-24,2017-08-24 18:02:06 UTC,Eastern Time (US & Canada),701,701,,NA,false,,google,43448,Bill Harms,2018-06-21 00:13:22 UTC,2022-12-01 03:18:00 UTC,research,CC-BY-NC,NA,NA,false,2017
+Amorpha fruticosa,2017-03-01 14:34:14 +0100,"Amorpha fruticosa L.
+
+Fabaceae
+
+Indaco bastardo, Amorfa, Falso indaco, indaco bastardo, amorfa cespugliosa.
+
+Curiosità: Importata in Europa nel 1724 come pianta ornamentale e da giardino. Possiede una grande capacità pollonifera tanto da annoverarsi tra le piante infestanti perchè colonizza i suoli, frequentemente insieme a ""Robinia pseudoacacia L."" a cui tende a sostituirsi appportando uno squilibrio all'ecosistema autoctono.
+E' stata utilizzata anche come pianta tintoria perchè contiene un pigmento che colora di blu. Dove è più rigogliosa viene bottinata dalle api fornendo un miele gustosissimo.","47521, Cesena, Emilia-Romagna, IT",44.1203789953,12.2175536373,,false indigo bush,https://www.inaturalist.org/observations/5243677,https://inaturalist-open-data.s3.amazonaws.com/photos/6485978/medium.jpg,eddibisulli,5243677,False Indigo,Plantae,57356,2,0,Wed Mar 01 2017 14:34:14 GMT+0100 (GMT+1),2017-03-01,2017-03-01 13:34:14 UTC,Amsterdam,565,565,,NA,false,,,146435,Eddi Bisulli,2017-03-07 16:34:41 UTC,2017-09-07 04:48:35 UTC,research,CC-BY-NC,NA,3,false,2017
+Amorpha fruticosa,2013-05-03 00:00:00 -0600,"Amorpha fruticosa L.
+Indigo bush, False indigo bush, False indigo, Desert false indigo
+Fabaceae (Pea Family)
+Synonyms: Amorpha fruticosa var. occidentalis
+","Arcadia Trail Park, Fort Worth, TX",32.886107,-97.281741,,false indigo bush,http://www.inaturalist.org/observations/256034,https://inaturalist-open-data.s3.amazonaws.com/photos/318593/medium.JPG,taogirl,256034,Desert False Indigo,Plantae,57356,2,0,2013-05-03,2013-05-03,,Central Time (US & Canada),17,17,,NA,false,,,9434,Judith Ellen Lopez,2013-05-06 03:05:50 UTC,2017-09-25 18:28:55 UTC,research,CC-BY-NC,NA,NA,false,2013
+Lysimachia arvensis,2023-04-23 11:30:06 -0700,"1. Primulaceae
+2. Lysimachia 
+3. L. arvensis
+4. USA
+5. California
+6. San Diego County 
+7. Carlsbad, Batiquitos Lagoon trail
+8. Lat: 33.09, Lon: -117.30
+9. 4m
+10. 04/23/2023
+11. Along dirt walking trail
+12. Anagallis arvensis, 
+13. single plant among other species of plants
+14. GC
+15. Specimen #3
+16. annual 
+
+","Shorebird Ln, Carlsbad, CA, US",33.0917564765,-117.2977332155,,scarlet pimpernel,https://www.inaturalist.org/observations/156948719,https://inaturalist-open-data.s3.amazonaws.com/photos/271433556/medium.jpg,gckkh,156948719,Scarlet Pimpernel,Plantae,791928,2,0,2023-04-23 11:30:06-07:00,2023-04-23,2023-04-23 18:30:06 UTC,Pacific Time (US & Canada),23,23,NA,NA,false,NA,,6355129,,2023-04-27 21:15:44 UTC,2023-04-30 23:25:26 UTC,research,CC-BY-NC,NA,3,false,2023
+Lysimachia arvensis,2021-06-16 08:20:00 -0400,"Not sure about this ID.
+No matching Portulaca species in 
+- the Vascular Flora of the Carolinas, 19864/68
+- iNat (for North Carolina)
+
+*Lysimachia arvensis* [Thanks gillydilly!]
+
+synonym, *Anagallis arvensis* (L.)","Chatham County, NC, USA",35.638453394,-79.1131134504,,scarlet pimpernel,https://www.inaturalist.org/observations/83268501,https://inaturalist-open-data.s3.amazonaws.com/photos/136742090/medium.jpg,mjpapay,83268501,Scarlet Pimpernel,Plantae,791928,2,0,2021/06/16 8:20 AM EDT,2021-06-16,2021-06-16 12:20:00 UTC,Eastern Time (US & Canada),61,61,NA,NA,false,NA,,3892874,,2021-06-16 15:13:49 UTC,2021-06-19 03:41:47 UTC,research,CC-BY,NA,NA,false,2021
+Lysimachia arvensis,2021-04-20 11:21:00 -0700,"scarlet pimpernel
+Primulaceae	
+Anagallis arvensis	
+L.	
+1753	
+introduced	
+temperate and subtropical
+",Pomona Winco Parking Lot,34.027082,-117.761139,,scarlet pimpernel,https://www.inaturalist.org/observations/75366419,https://inaturalist-open-data.s3.amazonaws.com/photos/123284581/medium.jpg,alyu,75366419,scarlet pimpernel,Plantae,791928,3,0,2021/04/20 11:21 AM UTC,2021-04-20,2021-04-20 18:21:00 UTC,Pacific Time (US & Canada),30,30,NA,NA,false,NA,,3559627,Andy Lyu,2021-04-26 22:53:13 UTC,2021-08-16 02:09:49 UTC,research,CC-BY-NC,NA,NA,false,2021
+Lysimachia arvensis,2020-03-04 13:42:00 +0200,,"Borot Lotz, Israel",30.510393,34.606801,"מרגניים, רקפתנית, דו פסיגיים, מכוסי הזרע, צמחי הזרעים, Botany, מרגנית השדה Anagallis arvensis L.",scarlet pimpernel,https://www.inaturalist.org/observations/68105387,https://inaturalist-open-data.s3.amazonaws.com/photos/110195868/medium.jpg,omeraceae,68105387,מרגנית השדה,Plantae,791928,3,0,2020/03/04 1:42 PM IST,2020-03-04,2020-03-04 11:42:00 UTC,Jerusalem,973,973,NA,NA,false,NA,manual,3941922,Omer Dan,2021-01-15 15:11:57 UTC,2021-01-16 08:39:12 UTC,research,CC-BY-NC,NA,NA,false,2020
+Lysimachia arvensis,2020-02-29 13:04:00 +0200,,"Wadi Ziporim, Israel",30.8272162833,34.738290752,"מרגנית השדה Anagallis arvensis L., מרגניים, רקפתנית, דו פסיגיים, מכוסי הזרע, צמחי הזרעים, Botany",scarlet pimpernel,https://www.inaturalist.org/observations/67968715,https://inaturalist-open-data.s3.amazonaws.com/photos/109950515/medium.jpg,omeraceae,67968715,scarlet pimpernel,Plantae,791928,3,0,2020/02/29 1:04 PM IST,2020-02-29,2020-02-29 11:04:00 UTC,Jerusalem,3770,3770,NA,NA,false,NA,,3941922,Omer Dan,2021-01-12 19:44:49 UTC,2021-01-15 12:26:35 UTC,research,CC-BY-NC,NA,NA,false,2020
+Lysimachia arvensis,2020-09-18 18:07:12 UTC,"De acuerdo con diferentes autores, el nombre aceptado es Anagallis arvensis L.","Universidad Nacional Autónoma de México, Ciudad de México, CDMX, MX",19.3204515316,-99.1934427261,,scarlet pimpernel,https://www.inaturalist.org/observations/60027975,https://inaturalist-open-data.s3.amazonaws.com/photos/95956671/medium.jpg,luisvigosa,60027975,Acker-Gauchheil,Plantae,791928,1,0,Fri Sep 18 2020 18:07:12 GMT-0500 (CDT),2020-09-18,2020-09-18 18:07:12 UTC,UTC,60,60,NA,NA,false,NA,,3633191,Luis Vigosa,2020-09-19 00:53:24 UTC,2022-03-07 19:03:33 UTC,research,CC-BY-NC,NA,3,false,2020
+Lysimachia arvensis,2010-12-23 08:46:50 +0100,"<i>Anagallis arvensis</i> L., Black Mountain, Canberra, ACT, 23 December 2010","Canberra, Australian Capital Territory, Australia",-35.266925,149.090609,"Myrsinaceae, Anagallis, arvensis, Black Mountain, Canberra, ACT, Australia, December, 2010, taxonomy:binomial=Anagallis arvensis, taxonomy:genus=Anagallis, Anagallis arvensis, taxonomy:family=Myrsinaceae, geo:country=Australia, geo:lat=-35.2669, geo:lon=149.0906, geocode:accuracy=14",scarlet pimpernel,https://www.inaturalist.org/observations/20261036,https://inaturalist-open-data.s3.amazonaws.com/photos/31274064/medium.jpg,dhobern,20261036,scarlet pimpernel,Plantae,791928,1,0,2010-12-23 08:46:50,2010-12-23,2010-12-23 07:46:50 UTC,Copenhagen,NA,NA,NA,NA,false,NA,,4859,Donald Hobern,2019-02-10 20:28:34 UTC,2019-02-10 21:02:43 UTC,research,CC0,NA,NA,false,2010
+Lysimachia arvensis,2017-04-14 00:00:00 +1200,"= Lysimachia arvensis (L.) U.Manns & Anderb. subsp. arvensis
+
+Manns, U.; Anderberg, A.A. 2009: New combinations and names in Lysimachia (Myrsinaceae) for species of Anagallis, Pelletiera and Trientalis. Willdenowia 39: 49-54
+
+Common through wasteland, near sites of human habitation and along coastal tracks and vegetated parts of boulder banks.
+
+Apologies for awful image. All plants seen with uniformly orange-red flowers.","Kapiti Island Nature Reserve, Rangatira, near Quarantine Sheds",-40.854565,174.932206,,scarlet pimpernel,http://naturewatch.org.nz/observations/6102345,https://inaturalist-open-data.s3.amazonaws.com/photos/7634268/medium.jpg,pjd1,6102345,Pimpernel,Plantae,791928,2,0,2017-04-14,2017-04-14,,Wellington,NA,NA,NA,NA,false,NA,,57661,Peter de Lange,2017-05-05 18:48:31 UTC,2021-02-15 16:24:53 UTC,research,CC-BY,NA,NA,false,2017
+Lysimachia arvensis,2016-05-22 11:53:31 +0200,"Primulaceae
+
+Centonchio dei campi, Bellichina, Mordigallina, Anagallide
+
+Lysimachia arvensis (L.) U. Manns & Anderb.
+Willdenowia 39(1): 51 (2009)
+
+Basionimo: Anagallis arvensis L. - Sp. Pl.: 148 (1753)
+Altri sinonimi: Anagallis phoenicea Scop.
+
+Forma Biologica: T rept - Terofite reptanti. Piante annue con fusti striscianti sul terreno.
+
+Etimologia: Il nome generico ricorda Lisimaco, medico greco dell'antichità; il nome specifico dal latino arvensis = dei campi con riferimento al suo habitat.","Via Mura Porta Fiume 16–31, Cesena, Emilia-Romagna, IT",44.1380791693,12.2402469793,,scarlet pimpernel,http://www.inaturalist.org/observations/3266746,https://inaturalist-open-data.s3.amazonaws.com/photos/3777797/medium.jpg,eddibisulli,3266746,Pimpernel,Plantae,791928,3,0,Sun May 22 2016 11:53:31 GMT+0200 (GMT+2),2016-05-22,2016-05-22 09:53:31 UTC,Africa/Johannesburg,2100,2100,NA,NA,false,NA,,146435,Eddi Bisulli,2016-05-22 10:17:57 UTC,2021-02-15 16:09:05 UTC,research,CC-BY-NC,NA,3,false,2016
+Anchusa officinalis,2020-08-22 16:10:00 +0300,Воловик лікарський (Anchusa officinalis L.)  photo by Sytnyk Tetiana,"Бобровицкий район, Черниговская область, Украина",50.6110583333,31.6420833333,NA,common alkanet,https://www.inaturalist.org/observations/59122440,https://inaturalist-open-data.s3.amazonaws.com/photos/94437319/medium.jpeg,sytnyktetiana,59122440,Воловик лекарственный,Plantae,75430,2,0,2020/08/22 4:10 PM EEST,2020-08-22,2020-08-22 13:10:00 UTC,Kyiv,5,5,NA,NA,false,NA,NA,3576957,Тетяна Ситник,2020-09-10 13:01:17 UTC,2020-09-28 18:37:18 UTC,research,CC-BY-NC,NA,NA,false,2020
+Anchusa officinalis,2019-07-13 12:28:00 +0300,Воловик лікарський Медуниця польова Anchusa officinalis L. photo by Sytnyk Tetiana,"Бобровицкий район, Черниговская область, Украина",50.6089497109,31.6442073935,NA,common alkanet,https://www.inaturalist.org/observations/59033437,https://inaturalist-open-data.s3.amazonaws.com/photos/94291160/medium.jpg,sytnyktetiana,59033437,common alkanet,Plantae,75430,1,0,2019/07/13 12:28 PM EEST,2019-07-13,2019-07-13 09:28:00 UTC,Kyiv,244,244,NA,NA,false,NA,NA,3576957,Тетяна Ситник,2020-09-09 12:00:11 UTC,2020-09-21 17:25:10 UTC,research,CC-BY-NC,NA,NA,false,2019
+Bidens alba,2020-02-27 14:39:00 -0500,I found this daisy looking weed near a sign in front of the post office at USF. It was a breezy 59° and sunny. After performing some research online(http://smallgrains.wsu.edu/weed-resources/common-weed-list/mayweed-chamomile/) I found the weed to be what I believe to be a may weeks chamomile(Anthemis cotula L.),"University of South Florida, Tampa, FL, US",28.065,-82.41677167,NA,White beggarticks,https://www.inaturalist.org/observations/39328931,https://inaturalist-open-data.s3.amazonaws.com/photos/62379917/medium.jpg,vandykek907,39328931,Romerillo,Plantae,1095846,2,0,Thu Feb 27 2020 14:39:00 GMT-0500 (EST),2020-02-27,2020-02-27 19:39:00 UTC,Eastern Time (US & Canada),87,87,NA,NA,false,NA,NA,2557749,,2020-02-28 21:51:57 UTC,2021-01-09 05:11:00 UTC,research,CC-BY-NC,NA,3,false,2020
+Anthemis cotula,2017-01-30 00:00:00 +1200,"<em>Locality: NEW ZEALAND AK, Auckland 1071, suburb of Kohimarama, Madills Farm Reserve.
+
+<em>Habitat: Growing wild.
+
+<em>Identification: </em><a href=""http://naturewatch.org.nz/listed_taxa/7258553"">Anthemis cotula</a><em> L., 1753.",Auckland 1071,-36.858671,174.844914,NA,Stinking chamomile,http://naturewatch.org.nz/observations/5025150,https://inaturalist-open-data.s3.amazonaws.com/photos/6150557/medium.jpeg,stephen_thorpe,5025150,Stinking chamomile,Plantae,52841,1,0,2017-01-30,2017-01-30,,Auckland,2,2,NA,NA,false,NA,NA,15329,Stephen Thorpe,2017-01-30 01:58:54 UTC,2018-02-21 18:46:15 UTC,research,CC-BY-NC,NA,NA,false,2017
+Anthriscus caucalis,2017-05-27 12:47:00 +0200,https://www.biodiversidadvirtual.org/herbarium/Anthriscus-caucalis-M.Bieb.-img462571.html,"Almería, España",36.9862298811,-2.8521763089,,Bur Parsley,https://www.inaturalist.org/observations/67746889,https://inaturalist-open-data.s3.amazonaws.com/photos/109537653/medium.jpeg,faluke,67746889,Anthriscus caucalis,Plantae,52846,1,0,2017/05/27 12:47 PM CEST,2017-05-27,2017-05-27 10:47:00 UTC,Paris,15,15,NA,NA,false,NA,NA,3771288,,2021-01-08 13:14:19 UTC,2021-01-12 12:57:14 UTC,research,CC-BY-NC,NA,NA,false,2017
+Anthriscus caucalis,2019-04-14 00:00:00 +0000,Anthriscus caucalis M.Bieb. APIACEAE,"Alcácer do Sal, Setúbal, Portugal",38.2173805556,-8.2668194444,PLANTAE,Bur Parsley,https://www.inaturalist.org/observations/32478510,https://static.inaturalist.org/photos/50943222/medium.jpg,joaotiagotavares,32478510,Bur Parsley,Plantae,52846,1,0,2019/04/14 7:00 PM UTC,2019-04-14,,UTC,NA,NA,NA,NA,false,NA,NA,1355499,Joao Tiago Tavares,2019-09-10 17:29:44 UTC,2019-09-10 17:37:13 UTC,research,,NA,NA,false,2019
+Daucus carota carota,2022-11-04 14:55:44 +0100,"*Daucus carota* L. subsp. *carota*
+
+Apiaceae
+H bienn / T scap
+Cosmop. / Eurasiat.
+Status: autoctona
+
+Altitudine: 360 m
+Habitat: bordo strada
+
+Gen. *Daucus*
+Achenio con aculei lunghi meno o quanto la larghezza dell'achenio; piante perenni o bienni; foglie inferiori con segmenti larghi 1 mm almeno --> Gp. *D. carota*
+
+Fusto eretto; brattee divise in lacinie lineari; ombrelle contratte alla fruttificazione a nido d'uccello; frutto con aculei lunghi quanto la larghezza dell'achenio --> *D. carota* s.s.
+
+Diametro dell'ombrella terminale 5-10 cm; foglie con segmenti d'ultimo ordine 2-3 volte più lunghi che larghi, pennatopartiti; frutto con aculei a punta semplice; fusto generalm. eretto --> *D. carota* subsp. *carota*",Catanzaro,38.9099216796,16.5876515955,,Wild Carrot,https://www.inaturalist.org/observations/141185985,https://static.inaturalist.org/photos/241810479/medium.jpeg,albertocapuano,141185985,Daucus carota carota,Plantae,199317,1,0,2022-11-04 14:55:44,2022-11-04,2022-11-04 13:55:44 UTC,Rome,6885,6885,,NA,false,gps,gps,5829267,Alberto Capuano,2022-11-05 19:25:08 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false,2022
+Daucus carota,2022-08-14 11:07:00 +0200,"***Daucus carota*** **L.**
+*[Apiaceae]*
+
+Valsavarenche (Valle d'Aosta), 1460m",Italy,45.6853603996,7.2248554036,Parco nazionale del Gran Paradiso,wild carrot,https://www.inaturalist.org/observations/135098513,https://inaturalist-open-data.s3.amazonaws.com/photos/230381725/medium.jpeg,alberto_colatore,135098513,wild carrot,Plantae,76610,1,0,2022/08/14 11:07,2022-08-14,2022-08-14 09:07:00 UTC,Rome,10,27126,obscured,NA,true,,,4483817,Alberto Colatore,2022-09-15 10:38:35 UTC,2022-12-23 10:53:11 UTC,research,CC-BY-NC,NA,NA,false,2022
+Daucus carota,2022-08-14 10:44:00 +0200,"***Daucus carota*** **L.**
+*[Apiaceae]*
+
+Valsavarenche (Valle d'Aosta), 1170m","Valle d'Aosta, IT-AO, IT",45.6428204805,7.2215121388,Parco nazionale del Gran Paradiso,wild carrot,https://www.inaturalist.org/observations/135097474,https://inaturalist-open-data.s3.amazonaws.com/photos/230379647/medium.jpeg,alberto_colatore,135097474,wild carrot,Plantae,76610,2,0,2022/08/14 10:44,2022-08-14,2022-08-14 08:44:00 UTC,Rome,25,27126,obscured,NA,true,,,4483817,Alberto Colatore,2022-09-15 10:16:23 UTC,2022-12-23 10:52:54 UTC,research,CC-BY-NC,NA,NA,false,2022
+Raphanus sativus,2022-02-12 13:54:28 -0800,"UCSC Coastal Campus
+Younger Lagoon Reserve
+Lance Luong
+#2190765
+12 February 2022
+Brassicaceae
+Raphanus sativus L. 1753
+United States, California, Santa Cruz County, Santa Cruz, UCSC Campus Natural Reserve. Found on the main pathway nearby the seaside prairie classrooms. 5 meters away from the classrooms heading away from the ocean.
+36.9498541, -122.0645251
+Elevation: 14m.
+Lots of direct sunlight. Coastal temperatures.  Lots of foot traffic near path and stepping on grass lands near it.
+Annual flower. Tall plants with a raceme inflorescence. Multiple colours can be found.
+Associated species: Daucus carota, Brassica rapa, Pastinaca sativa","McAllister Way (Seymour Center), Santa Cruz, CA 95060, USA",36.9497696997,-122.0646416,,wild radish,https://www.inaturalist.org/observations/106635388,https://static.inaturalist.org/photos/179173202/medium.jpeg,lanceluong,106635388,Wild Radish,Plantae,55410,1,0,2022-02-12 13:54:28,2022-02-12,2022-02-12 21:54:28 UTC,Pacific Time (US & Canada),NA,NA,,NA,false,gps,gps,3257037,Lance Luong,2022-02-12 22:17:22 UTC,2022-03-12 03:55:27 UTC,research,,NA,2,false,2022
+Daucus carota,2021-07-11 13:54:00 +0200,"***Daucus carota*** **L.**
+*[Apiaceae]*
+
+Sesto Calende (Lombardia), 210m",Italy,45.7123450448,8.7316727605,Parco regionale della valle del Ticino,wild carrot,https://www.inaturalist.org/observations/86864892,https://static.inaturalist.org/photos/143172074/medium.jpeg,alberto_colatore,86864892,Carota,Plantae,76610,1,0,2021/07/11 1:54 PM CEST,2021-07-11,2021-07-11 11:54:00 UTC,Paris,25,27126,obscured,NA,true,,,4483817,Alberto Colatore,2021-07-13 15:47:08 UTC,2022-03-17 15:00:20 UTC,research,CC-BY-NC,NA,NA,false,2021
+Daucus carota,2021-06-23 00:00:00 -1000,"Daucus carota L. 
+
+stem pubescent, compound 
+umbrel of minute, white flowers, center few flowers black
+","Lane County, US-OR, US",44.0413904193,-123.2377983215,,wild carrot,https://www.inaturalist.org/observations/86626964,https://inaturalist-open-data.s3.amazonaws.com/photos/142739834/medium.jpg,emmaclover,86626964,wild carrot,Plantae,76610,1,0,06/23/2021,2021-06-23,,Hawaii,NA,27380,obscured,NA,true,,,4621252,,2021-07-11 21:12:15 UTC,2021-07-13 23:23:48 UTC,research,CC-BY-NC,NA,NA,false,2021
+Aegopodium podagraria,2020-06-30 14:18:30 +0300,"Отдел: Magnoliophyta
+Класс: Magnoliopsida
+Семейство: Umbelliferae
+Род: Daucus
+Вид: Daucus carota L.","Минский район, Беларусь",53.9255940278,27.8914773333,,Goutweed,https://www.inaturalist.org/observations/51478859,https://inaturalist-open-data.s3.amazonaws.com/photos/81795200/medium.jpeg,d_veko,51478859,Снітка звычайная,Plantae,51741,3,1,2020-06-30 2:18:30 PM GMT+03:00,2020-06-30,2020-06-30 11:18:30 UTC,Baghdad,NA,NA,,NA,false,gps,gps,3260346,,2020-06-30 15:38:46 UTC,2022-01-19 12:35:36 UTC,research,CC-BY-NC,NA,2,false,2020
+Daucus carota,2020-05-03 10:28:45 -0700,"Daucus carota L.
+Apiaceae
+Found roadside in a degraded woodland
+BIOL#448
+","Naranja Ave, Oroville, CA, US",39.4841545818,-121.4828034662,,wild carrot,https://www.inaturalist.org/observations/45007707,https://inaturalist-open-data.s3.amazonaws.com/photos/71355613/medium.jpg,kevdodd4,45007707,wild carrot,Plantae,76610,1,0,Sun May 03 2020 10:28:45 GMT-0700 (PDT),2020-05-03,2020-05-03 17:28:45 UTC,Pacific Time (US & Canada),395,395,,NA,false,,,2670373,Kevin Dodd,2020-05-05 19:59:06 UTC,2020-11-15 19:09:23 UTC,research,CC-BY-NC,NA,3,false,2020
+Daucus carota,2019-10-21 00:00:00 +0000,"Family: Apiaceae
+Latin Name: Daucus carota L.
+Common Name: Queen Anne's Lace or Wild Carrot
+Collected at: Sidewalk edge near Lipman Hall at Rutgers New Brunswick
+Habitat: Compacted, gravel type soil immediately next to sidewalk
+Collected by: Clayton Jarvis","Lipman Hall, New Brunswick, NJ 08901, USA",40.4809674,-74.4359348,,wild carrot,https://www.inaturalist.org/observations/36484099,https://static.inaturalist.org/photos/57677442/medium.jpg,claytonjarvis,36484099,wild carrot,Plantae,76610,2,0,2019/10/21 3:26 PM UTC,2019-10-21,,UTC,188,188,,NA,false,,,2212120,CLAYTON JARVIS,2019-12-09 00:34:19 UTC,2019-12-12 01:18:11 UTC,research,,NA,NA,false,2019
+Daucus carota,2019-05-01 14:28:47 +0200,"Daucus carota L. - Riserva Naturale Orientata ""Biviere di Gela"", Gela (CL) - 05/05/2019","Sicily, IT",37.0009934073,14.2291435664,,wild carrot,https://www.inaturalist.org/observations/24745592,https://inaturalist-open-data.s3.amazonaws.com/photos/38267788/medium.jpeg,giuseppebuscemi,24745592,Carota,Plantae,76610,1,0,2019-05-01 2:28:47 PM CEST,2019-05-01,2019-05-01 12:28:47 UTC,Paris,NA,28447,obscured,NA,true,gps,gps,1727233,Giuseppe Buscemi,2019-05-07 19:29:04 UTC,2019-12-01 21:32:25 UTC,research,CC-BY-NC,NA,2,false,2019
+Daucus carota,2017-07-22 12:36:55 -0400,"in bloom and fruit.
+22 July 2017
+Fort McHenry
+Baltimore City
+Baltimore East Quad
+s.n.","Fort McHenry, Baltimore, MD, USA",39.263517018,-76.5829773048,Daucus carota L. - Queen Anne's Lace,wild carrot,https://www.inaturalist.org/observations/13654031,https://static.inaturalist.org/photos/20102914/medium.jpg,urban_botanist,13654031,wild carrot,Plantae,76610,2,0,2017-07-22 12:36:55,2017-07-22,2017-07-22 16:36:55 UTC,Eastern Time (US & Canada),280,280,,NA,false,,manual,43448,Bill Harms,2018-06-22 00:11:29 UTC,2022-11-30 03:55:20 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2017-08-09 11:49:42 -0400,"in bloom.
+9 August 2017
+Patuxent River SP--Annapolis Rock Road
+Montgomery County
+Damascus Quad
+s.n.",Annapolis Rock Road,39.276566,-77.135812,Daucus carota L. - Queen Anne's Lace,wild carrot,https://www.inaturalist.org/observations/13625229,https://static.inaturalist.org/photos/20053036/medium.jpg,urban_botanist,13625229,wild carrot,Plantae,76610,2,0,2017-08-09 11:49:42,2017-08-09,2017-08-09 15:49:42 UTC,Eastern Time (US & Canada),63,63,,NA,false,,manual,43448,Bill Harms,2018-06-21 00:15:00 UTC,2022-11-30 03:56:12 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2017-08-24 14:04:52 -0400,"in bloom.
+24 August 2017
+Cherry Hill Park
+Baltimore City 
+Curtis Bay Quad
+s.n.","Cherry Hill Park, Baltimore",39.245369,-76.615999,Daucus carota L. var. carota,wild carrot,https://www.inaturalist.org/observations/13625163,https://static.inaturalist.org/photos/20052943/medium.jpg,urban_botanist,13625163,wild carrot,Plantae,76610,2,0,2017-08-24 14:04:52,2017-08-24,2017-08-24 18:04:52 UTC,Eastern Time (US & Canada),701,701,,NA,false,,google,43448,Bill Harms,2018-06-21 00:13:19 UTC,2022-12-01 03:18:06 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2017-09-01 18:09:38 -0400,"in bloom.
+1 September 2017
+North Point SP--Beach and Pier Area
+Baltimore County
+Sparrows Point Quad
+s.n.","North Point State Park, North Point Road, Edgemere, MD, USA ",39.214771,-76.419903,Daucus carota L. - Queen Anne's Lace,wild carrot,https://www.inaturalist.org/observations/13603779,https://static.inaturalist.org/photos/20015359/medium.jpg,urban_botanist,13603779,wild carrot,Plantae,76610,2,0,2017-09-01 18:09:38,2017-09-01,2017-09-01 22:09:38 UTC,Eastern Time (US & Canada),300,300,,NA,false,,manual,43448,Bill Harms,2018-06-20 07:44:11 UTC,2022-12-01 03:22:57 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2017-09-04 11:23:12 -0400,"in bloom.
+4 September 2017
+Frederick Road at Little Patuxent River
+Howard County
+Ellicott City Quad
+s.n.",Frederick Road at Little Patuxent River,39.275702,-76.852243,Daucus carota L. - Queen Anne's Lace,wild carrot,https://www.inaturalist.org/observations/13597353,https://static.inaturalist.org/photos/20003445/medium.jpg,urban_botanist,13597353,wild carrot,Plantae,76610,2,0,2017-09-04 11:23:12,2017-09-04,2017-09-04 15:23:12 UTC,Eastern Time (US & Canada),442,442,,NA,false,,manual,43448,Bill Harms,2018-06-20 01:23:18 UTC,2022-12-01 03:33:13 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2017-09-17 12:19:25 -0400,"in bloom.
+17 September 2017
+Backbone Mountain--Table Rock Inn
+Garrett County
+Table Rock Quad
+s.n.","Table Rock Inn, Backbone Mountain, Oakland, MD, USA",39.28,-79.4283124,Daucus carota L. - Queen Anne's Lace,wild carrot,https://www.inaturalist.org/observations/13588463,https://static.inaturalist.org/photos/19987360/medium.jpg,urban_botanist,13588463,wild carrot,Plantae,76610,1,0,2017-09-17 12:19:25,2017-09-17,2017-09-17 16:19:25 UTC,Eastern Time (US & Canada),189,189,,NA,false,,,43448,Bill Harms,2018-06-19 19:36:38 UTC,2022-01-13 21:06:36 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2017-09-15 12:14:35 -0400,"in bloom and in fruit.
+15 September 2017
+Casselman Bridge SP
+Garrett County
+Grantsville Quad
+s.n.","Casselman River Bridge State Park, National Pike, Grantsville, MD, USA ",39.696214,-79.143741,Daucus carota L. - Queen Anne's Lace,wild carrot,https://www.inaturalist.org/observations/13586462,https://static.inaturalist.org/photos/19983533/medium.jpg,urban_botanist,13586462,wild carrot,Plantae,76610,2,0,2017-09-15 12:14:35,2017-09-15,2017-09-15 16:14:35 UTC,Eastern Time (US & Canada),175,175,,NA,false,,,43448,Bill Harms,2018-06-19 18:16:47 UTC,2022-08-09 01:57:17 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2017-09-17 14:02:53 -0400,"in bloom.
+17 September 2017
+McCoole
+Allegany County
+Keyser Quad
+s.n.","McCoole, MD, USA",39.446483,-78.972249,Daucus carota L. - Queen Anne's Lace,wild carrot,https://www.inaturalist.org/observations/13575826,https://static.inaturalist.org/photos/19965700/medium.jpg,urban_botanist,13575826,wild carrot,Plantae,76610,1,0,2017-09-17 14:02:53,2017-09-17,2017-09-17 18:02:53 UTC,Eastern Time (US & Canada),189,189,,NA,false,,manual,43448,Bill Harms,2018-06-19 08:26:19 UTC,2022-11-26 15:06:05 UTC,research,CC-BY-NC,NA,NA,false,2017
+Daucus carota,2016-11-28 17:11:28 -0500,"Daucus carota L.-Scientific Name
+Queen Anne's Lace-Common Name 
+Apiaceae-Family
+Date Photographed-Nov.26th, 2016
+Photogrpahed by-Nicole ","1601–1605 River St, Olean, NY, US",42.0993656693,-78.4326590486,,wild carrot,http://www.inaturalist.org/observations/4674318,https://inaturalist-open-data.s3.amazonaws.com/photos/5662970/medium.jpg,nicole2694,4674318,Queen Anne's Lace,Plantae,76610,1,0,Mon Nov 28 2016 17:11:28 GMT-0500 (EST),2016-11-28,2016-11-28 22:11:28 UTC,Eastern Time (US & Canada),65,65,,NA,false,,,371815,,2016-12-02 00:44:17 UTC,2016-12-02 02:13:10 UTC,research,CC-BY-NC,NA,3,false,2016
+Daucus carota,2016-08-19 09:08:00 -0400,"Family: Umbelifers
+Habitat: Queen Anne's Lace can survive in harsh, distrubed conditions, such as the side of roads. Normally, they can be found in large fields. Queen Anne's Lace can also survive in a dry environment (Rhoads and Block). 
+Binomial name: Daucus carota L.
+(Rhoads and Block)
+Common name: Queen Anne's Lace
+Physiographic region: Deep Valley Region
+","McKean County, PA, USA",41.9538003585,-78.7436485291,,wild carrot,http://www.inaturalist.org/observations/4653421,https://inaturalist-open-data.s3.amazonaws.com/photos/5632834/medium.jpeg,pierceemily,4653421,Queen Anne's Lace,Plantae,76610,1,0,2016/08/19 9:08 AM EDT,2016-08-19,2016-08-19 13:08:00 UTC,Eastern Time (US & Canada),61,61,,NA,false,,,375397,,2016-11-28 04:03:30 UTC,2016-12-02 04:21:48 UTC,research,CC-BY-NC,NA,NA,false,2016
+Daucus carota,2013-08-22 17:31:36 -0400,"Daucus carota L. CARROT 
+Queen annes lace
+ Plantae   Dicotyledoneae   Apiaceae   Daucus ","379–399 E Rolfe, Perry, Michigan, US",42.8301666667,-84.213666666699993,,wild carrot,http://www.inaturalist.org/observations/383492,https://s3.amazonaws.com/static.inaturalist.org/photos/479399/medium.jpg,genevievecottrell,383492,Daucus carota,Plantae,76610,4,0,Thu Aug 22 2013 17:31:36 GMT-0400 (EDT),2013-08-22,2013-08-22 21:31:36 UTC,Eastern Time (US & Canada),NA,NA,,NA,false,,,21341,Genevieve Cottrell,2013-08-31 13:40:27 UTC,2015-06-10 22:11:53 UTC,research,,NA,3,false,2013
+Delairea odorata,2021-02-14 11:43:00 -0800,"California, USA
+Delairea odorata Lem.
+Asteraceae (Compositae)
+Determined by: Kenton Kiser 2/14/21
+Locality: Santa Cruz County, Natural Bridges State Beach
+Altitude: ~49 ft. (15m)
+Habitat: Woodland/Shrubland, well shaded, near coast
+Collection date: 2/12/21
+Collector: K. Kiser
+Notes: Discoid heads in cyme like inflorescences. Leaves wide and deltate. Corolla bright yellow and funnel shaped.  ","Santa Cruz, CA, USA",36.9519390035,-122.0588084284,,Cape-ivy,https://www.inaturalist.org/observations/69604825,https://static.inaturalist.org/photos/112971017/medium.jpg,achillea_kenton,69604825,Cape-ivy,Plantae,53208,2,0,2021/02/14 11:43 AM PST,2021-02-14,2021-02-14 19:43:00 UTC,Pacific Time (US & Canada),317,317,NA,NA,false,NA,NA,3108547,Kenton Kiser,2021-02-15 05:36:35 UTC,2022-01-20 04:11:04 UTC,research,,NA,NA,false,2021
+Delairea odorata,2014-06-13 00:00:00 +1200,"Delairea odorata Lem., 1844
+
+Growing extensively in a small weedy wasteland area. In full bloom at the moment.","University of Auckland Tamaki Campus (East), suburb of Saint Johns, Auckland",-36.8870882758,174.8527550697,June flowers,Cape-ivy,http://naturewatch.org.nz/observations/408207,https://s3.amazonaws.com/static.inaturalist.org/photos/1265702/medium.,stephen_thorpe,1004593,Cape ivy,Plantae,53208,1,0,2014-06-13,2014-06-13,,Auckland,20,20,NA,NA,false,NA,NA,15329,Stephen Thorpe,2014-06-13 04:40:07 UTC,2016-09-26 07:56:41 UTC,research,CC-BY,NA,NA,false,2014
+Eleusine indica,2019-04-27 17:16:14 -0300,"<b><i>Eleusine indica</i></b> (L.) Gaertn.
+POACEAE
+
+Local: Brasília, DF, Brasil.
+
+Domínio fitogeográfico: Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal. Tipo de Vegetação: Área Antrópica, Caatinga (stricto sensu), Cerrado (lato sensu), Floresta Ombrófila (= Floresta Pluvial), Restinga
+
+Ref.: Lorenzi, H. Plantas Daninhas do Brasil. 4ª edição. Plantarum, 2008.
+","Lago Sul, Brasília, Brasil",-15.84143,-47.876751,"taxonomy:binomial=Eleusine indica, Eleusine indica, Eleusine, POACEAE",Goose Grass,https://www.inaturalist.org/observations/151828347,https://inaturalist-open-data.s3.amazonaws.com/photos/262028833/medium.jpg,mauricio_mercadante,151828347,Goose Grass,Plantae,76790,1,0,2019-04-27 17:16:14,2019-04-27,2019-04-27 20:16:14 UTC,Brasilia,19609,19609,NA,open,false,,google,9421,Mauricio Mercadante,2023-03-21 14:08:07 UTC,2023-04-02 00:39:26 UTC,research,CC-BY-NC-SA,NA,NA,false,2019
+Eleusine indica,2022-08-01 19:06:49 +0200,"*Eleusine indica* (L.) Gaertn.
+
+Poaceae
+T scap
+Cosmop.
+Status: esotica (neofita invasiva) 🔺️🔺️
+
+Altitudine: 386 m
+Habitat: tra le lastre della pavimentazione e in un prato",Catanzaro,38.9099216796,16.5876515955,,Goose Grass,https://www.inaturalist.org/observations/129022643,https://static.inaturalist.org/photos/219209962/medium.jpeg,albertocapuano,129022643,Eleusine indica,Plantae,76790,1,0,2022-08-01 19:06:49,2022-08-01,2022-08-01 17:06:49 UTC,Rome,6904,6904,NA,open,false,,,5829267,Alberto Capuano,2022-08-01 19:04:43 UTC,2023-03-27 00:17:17 UTC,research,,NA,2,false,2022
+Eleusine indica,2020-10-10 12:49:00 +0800,"牛筋草 Eleusine indica (L.) Gaertn.
+
+Ref page 93 香港禾草與莎草 (市政局刊物)",淋坑山 Lam Hang Shan,22.47129013,113.9952082138,,Goose Grass,https://www.inaturalist.org/observations/62271021,https://static.inaturalist.org/photos/99751385/medium.jpeg,agnestrekker,62271021,牛筋草,Plantae,76790,1,0,2020/10/10 12:49 PM HKT,2020-10-10,2020-10-10 04:49:00 UTC,Hong Kong,193,193,NA,open,false,,,1635708,Agnes Trekker,2020-10-11 04:53:45 UTC,2021-12-30 08:38:22 UTC,research,,NA,NA,false,2020
+Eleusine indica,2020-02-27 10:21:42 +0700,"Bone grass is a type of plant that can be controlled manually or using herbicides . [1] This plant belongs to the Poaceae tribe, which is a grass-grass tribe. [1] The scientific name of the grass is Eleusine indica (L.) Gaertn. [2] This grass has another name in each area. [1] Carulang or Jampang is bleached grass in the area designation Sunda and suket lulangan for Java . [1]",SMA Negeri 1 Purwosari,-7.7763340826,112.741045095,,Goose Grass,https://www.inaturalist.org/observations/39266565,https://static.inaturalist.org/photos/62275702/medium.jpeg,leonitamarzarizaldhie,39266565,Goose Grass,Plantae,76790,1,0,2020-02-27 10:21:42 AM GMT+07:00,2020-02-27,2020-02-27 03:21:42 UTC,Bangkok,349,349,NA,open,false,gps,gps,2537403,Leonita,2020-02-27 03:22:20 UTC,2020-12-28 10:45:44 UTC,research,,NA,2,false,2020
+Eleusine indica,2018-12-17 16:09:04 UTC,"https://observation.org/waarneming/view/165707548  Plat handjesgras
+Eleusine indica (L.) Gaertn.","Caminho Velho dos Reis Magos, Santa Cruz, Madeira, PT",32.6453883333,-16.8261,,Goose Grass,https://www.inaturalist.org/observations/19068349,https://inaturalist-open-data.s3.amazonaws.com/photos/29254422/medium.jpg,ahospers,19068349,Goose Grass,Plantae,76790,1,0,Mon Dec 17 2018 16:09:04 GMT+0000 (GMT),2018-12-17,2018-12-17 16:09:04 UTC,UTC,5,5,NA,open,false,,,18823,Andre Hosper,2018-12-17 16:24:30 UTC,2023-04-02 05:06:36 UTC,research,CC-BY-NC,NA,3,false,2018
+Eleusine indica,2018-10-28 15:28:29 +0800,"Eleusine indica (L.) Gaertn., 1788","Taitung City, Taitung County, Taiwan",22.695904,121.057249,牛筋草,Goose Grass,https://www.inaturalist.org/observations/17903933,https://inaturalist-open-data.s3.amazonaws.com/photos/27345586/medium.jpg,taiwan_reevesia,17903933,牛筋草,Plantae,76790,1,0,2018-10-28 15:28:29,2018-10-28,2018-10-28 07:28:29 UTC,Taipei,24,24,NA,,false,,manual,1068140,,2018-10-28 14:43:59 UTC,2022-09-14 05:33:55 UTC,research,CC-BY,NA,NA,false,2018
+Eleusine indica,2018-09-18 14:31:39 +0800,"Eleusine indica (L.) Gaertn., 1788
+常見俗名: 牛筋草
+臺灣物種名錄編號: 201499","Taitung, TW-TA, TW",22.814708,121.109074,"Eleusine indica, Plantae, 植物界, Tracheophyta, 維管束植物門, Magnoliopsida, 木蘭綱, Poales, 禾本目, Poaceae, 禾本科, Eleusine, 穇屬, 牛筋草",Goose Grass,https://www.inaturalist.org/observations/16785873,https://inaturalist-open-data.s3.amazonaws.com/photos/25337839/medium.jpg,taiwan_reevesia,16785873,牛筋草,Plantae,76790,1,0,2018-09-18 14:31:39,2018-09-18,2018-09-18 06:31:39 UTC,Taipei,96,96,NA,open,false,,manual,1068140,,2018-09-22 06:22:16 UTC,2022-09-14 05:33:55 UTC,research,CC-BY,NA,NA,false,2018
+Eleusine indica,2014-03-18 00:00:00 +1200,"Eleusine indica (L.) Gaertn., 1788
+","University of Auckland Tamaki Campus, suburb of Saint Johns, Auckland",-36.8864693597,174.8526853323,,Goose Grass,http://naturewatch.org.nz/observations/392542,https://s3.amazonaws.com/static.inaturalist.org/photos/1249181/medium.,stephen_thorpe,989924,Goose Grass,Plantae,76790,1,0,2014-03-18,2014-03-18,,Auckland,6,6,NA,open,false,,,15329,Stephen Thorpe,2014-03-18 02:23:30 UTC,2019-02-24 02:09:06 UTC,research,CC-BY,NA,NA,false,2014
+Hedychium coronarium,2019-01-23 00:00:00 -0300,"Flora Brasiliensis 
+Vol. III, Part III, Fasc. 107 Prancha 10 Publicado em 01-Jan-1890 
+Família Zingiberaceae Gênero Hedychium J.Koenig Hedychium coronarium J.Koenig Gênero Kaempferia L. Kaempferia rotunda L.","Salesópolis - SP, 08970-000, Brasil",-23.557135,-45.8350833333,Flo_Bra,White ginger,https://www.inaturalist.org/observations/19851648,https://inaturalist-open-data.s3.amazonaws.com/photos/30606514/medium.jpeg,nelson_wisnik,19851648,White Ginger,Plantae,143955,2,0,2019/01/23 3:46 PM -02,2019-01-23,NA,Brasilia,NA,NA,NA,open,false,NA,NA,102919,Nelson Wisnik,2019-01-25 00:15:28 UTC,2022-02-10 14:07:26 UTC,research,CC-BY-NC,NA,NA,false,2019
+Hedychium coronarium,2018-12-27 00:00:00 -0300,"Flora Brasiliensis 
+Vol. III, Part III, Fasc. 107 Prancha 10 Publicado em 01-Jan-1890 
+Família Zingiberaceae Gênero Hedychium J.Koenig Hedychium coronarium J.Koenig Gênero Kaempferia L. Kaempferia rotunda L.","Jardim Sorirama, Campinas - SP, Brasil",-22.8838904711,-46.946661619,Flo_Bra,White ginger,https://www.inaturalist.org/observations/19258086,https://inaturalist-open-data.s3.amazonaws.com/photos/29591709/medium.jpeg,nelson_wisnik,19258086,White Ginger,Plantae,143955,2,0,2018/12/27 5:44 PM -02,2018-12-27,NA,Brasilia,15,15,NA,open,false,NA,NA,102919,Nelson Wisnik,2018-12-27 23:31:43 UTC,2022-02-10 14:07:29 UTC,research,CC-BY-NC,NA,NA,false,2018
+Hedychium coronarium,2018-12-26 00:00:00 -0300,"Flora Brasiliensis
+Vol. III, Part III, Fasc. 107 Prancha 10 Publicado em 01-Jan-1890 
+Família Zingiberaceae Gênero Hedychium J.Koenig Hedychium coronarium J.Koenig Gênero Kaempferia L. Kaempferia rotunda L.","Pedreira - SP, 13920-000, Brasil",-22.8147689168,-46.8881440262,Flo_Bra,White ginger,https://www.inaturalist.org/observations/19239141,https://inaturalist-open-data.s3.amazonaws.com/photos/29558079/medium.jpg,nelson_wisnik,19239141,White Ginger,Plantae,143955,2,0,2018/12/26 5:48 PM -02,2018-12-26,NA,Brasilia,12,12,NA,open,false,NA,NA,102919,Nelson Wisnik,2018-12-26 23:44:07 UTC,2022-02-10 14:07:46 UTC,research,CC-BY-NC,NA,NA,false,2018
+Hedychium coronarium,2018-04-29 00:00:00 -0300,"Flora Brasiliensis
+Vol. III, Part III, Fasc. 107 Prancha 10 Publicado em 01-Jan-1890
+Família Zingiberaceae Gênero Hedychium J.Koenig Hedychium coronarium J.Koenig Gênero Kaempferia L. Kaempferia rotunda L.","Paranapiacaba, Santo André - SP, Brasil",-23.7778433333,-46.3004316667,Flo_Bra,White ginger,https://www.inaturalist.org/observations/11839039,https://inaturalist-open-data.s3.amazonaws.com/photos/16941724/medium.jpeg,nelson_wisnik,11839039,Lírio-Do-Brejo,Plantae,143955,3,0,2018/04/29 3:20 PM -03,2018-04-29,NA,Brasilia,NA,NA,NA,open,false,NA,NA,102919,Nelson Wisnik,2018-04-30 03:13:19 UTC,2022-02-10 14:07:59 UTC,research,CC-BY-NC,NA,NA,false,2018
+Raphanus sativus,2022-02-12 13:54:28 -0800,"UCSC Coastal Campus
+Younger Lagoon Reserve
+Lance Luong
+#2190765
+12 February 2022
+Brassicaceae
+Raphanus sativus L. 1753
+United States, California, Santa Cruz County, Santa Cruz, UCSC Campus Natural Reserve. Found on the main pathway nearby the seaside prairie classrooms. 5 meters away from the classrooms heading away from the ocean.
+36.9498541, -122.0645251
+Elevation: 14m.
+Lots of direct sunlight. Coastal temperatures.  Lots of foot traffic near path and stepping on grass lands near it.
+Annual flower. Tall plants with a raceme inflorescence. Multiple colours can be found.
+Associated species: Daucus carota, Brassica rapa, Pastinaca sativa","McAllister Way (Seymour Center), Santa Cruz, CA 95060, USA",36.9497696997,-122.0646416,,wild radish,https://www.inaturalist.org/observations/106635388,https://static.inaturalist.org/photos/179173202/medium.jpeg,lanceluong,106635388,Wild Radish,Plantae,55410,1,0,2022-02-12 13:54:28,2022-02-12,2022-02-12 21:54:28 UTC,Pacific Time (US & Canada),NA,NA,,NA,false,gps,gps,3257037,Lance Luong,2022-02-12 22:17:22 UTC,2022-03-12 03:55:27 UTC,research,,NA,2,false,2022
+Pastinaca sativa,2021-06-27 11:34:00 +0200,"***Pastinaca sativa*** **L.**
+*[Apiaceae]*
+
+Varese (Lombardia), 560m","Varese, Lombardia, IT",45.9606601967,8.8339203773,Parco regionale Campo dei Fiori,wild parsnip,https://www.inaturalist.org/observations/86331650,https://static.inaturalist.org/photos/142205802/medium.jpeg,alberto_colatore,86331650,Pastinaca Comune,Plantae,59778,1,0,2021/06/27 11:34 AM CEST,2021-06-27,2021-06-27 09:34:00 UTC,Paris,10,27095,obscured,NA,true,,,4483817,Alberto Colatore,2021-07-09 21:58:18 UTC,2023-04-03 07:00:32 UTC,research,CC-BY-NC,NA,NA,false,2021
+Tripleurospermum inodorum,2015-07-02 15:14:00 +1300,"Ромашка непахучая, или Ромашник непахучий (Tripleurospermum inodorum (L.) Sch.Bip.).","Глазовский р-н, республика Удмуртия, Россия",58.1403065141,52.6826040631,NA,scentless mayweed,https://www.inaturalist.org/observations/36559094,https://inaturalist-open-data.s3.amazonaws.com/photos/57805357/medium.jpg,snsergeevna,36559094,scentless mayweed,Plantae,79441,1,0,2015/07/02 3:14 PM SST,2015-07-02,2015-07-02 02:14:00 UTC,Samoa,31,31,NA,NA,false,NA,NA,2476106,NA,2019-12-11 13:57:12 UTC,2019-12-11 16:16:37 UTC,research,CC-BY-NC,NA,NA,false,2015
+Verbascum virgatum,2018-06-24 00:00:00 +0000,Verbascum virgatum Stokes,"Silves, Faro, Portugal",37.3567111111,-8.3968194444,PLANTAE,Wand Mullein,https://www.inaturalist.org/observations/34505334,https://static.inaturalist.org/photos/54312794/medium.jpg,joaotiagotavares,34505334,Wand Mullein,Plantae,64130,1,0,2018/06/24 7:45 AM UTC,2018-06-24,NA,UTC,NA,NA,NA,NA,false,NA,NA,1355499,Joao Tiago Tavares,2019-10-17 18:30:14 UTC,2020-06-11 09:53:49 UTC,research,NA,NA,NA,false,2018
