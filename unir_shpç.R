@@ -1,0 +1,6 @@
+file_list <- list.files("C:/Users/pc/Dropbox/PC/Documents/Doctorado/NTL/PCA/EV_andes/OPM", pattern = "*shp", full.names = TRUE)
+library(sf)
+eshapefile_list <- lapply(file_list ,st_read)
+library(dplyr)
+combinedShp <- bind_rows(eshapefile_list)
+st_write(combinedShp, dsn = "C:/Users/pc/Dropbox/PC/Documents/Doctorado/NTL/PCA/EV_andes/OPM/oi.shp",layer="oi", driver="ESRI Shapefile")
